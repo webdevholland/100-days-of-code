@@ -6,9 +6,11 @@
 
 **Notes**:  
 * Course preview distinguishes language (syntax) versus environment (web browser, Node.js, MongoDB).  Need to learn syntax first before worrying about environments language is used in.
-* Played with JS in console of Chrome (see below Links)
+* Played with JavaScript in console of Chrome (see below Links).  Keywords *let* and *variable* mentioned.
 
-**Thoughts:** Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
+**Thoughts:**
+* Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
+* First time playing around with JS in console; previously only tinkered with HTML & CSS in Developer tools.  Recall *let* and *variable* from [Grasshopper](https://grasshopper.codes/) app.
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
