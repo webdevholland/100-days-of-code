@@ -1,8 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
-My main focus as I work through this challenge will be Brad Schiff's Udemy course <a href="https://www.udemy.com/share/101qIy/" target="_blank">"Learn JavaScript: Full-Stack from Scratch"</a>.  To keep things fresh and interesting for me though, I may also work on any of the following:
+My main focus as I work through this challenge will be Brad Schiff's Udemy course ["Learn JavaScript: Full-Stack from Scratch"](https://www.udemy.com/share/101qIy/).  To keep things fresh and interesting for me though, I may also work on any one of the following:
 
-    * 
+    
 
 ## Contents
 
