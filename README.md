@@ -8,7 +8,7 @@ After completing the [#21DayCkChallenge](https://career-karma.gitbook.io/learn/2
 
 I primarily want to build up my GitHub profile and have more projects to showcase.  A secondary goal of mine is to continue to evaluate coding bootcamps, specifically [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp/online) and [Lambda School](https://lambdaschool.com/courses/full-stack-web-development).  (As of August 2019, Flatiron agreed to hold my admissions application and I was conditionally accepted by Lambda through Career Karma's FastTrack program.)
 
-Follow my progress in my [Log](log.md) or on Twitter [@webdevholland](https://twitter.com/webdevholland).  Happy Coding!!!  ~Christine
+Follow my progress in my [Log](log.md) or on Twitter [@webdevholland](https://twitter.com/webdevholland).  Happy Coding!!!
 
 ## Contents
 
