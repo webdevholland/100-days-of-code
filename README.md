@@ -8,6 +8,8 @@ After completing the [#21DayCkChallenge](https://career-karma.gitbook.io/learn/2
 
 I primarily want to build up my GitHub profile and have more projects to showcase.  A secondary goal of mine is to continue to evaluate coding bootcamps, specifically [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp/online) and [Lambda School](https://lambdaschool.com/courses/full-stack-web-development).  (As of August 2019, Flatiron agreed to hold my admissions application and I was conditionally accepted by Lambda through Career Karma's FastTrack program.)
 
+Follow my progress in my [log](log.md) or on Twitter [@webdevholland](https://twitter.com/webdevholland).  Happy Coding!!!  ~Christine
+
 ## Contents
 
 * [Rules](rules.md)
@@ -18,7 +20,7 @@ I primarily want to build up my GitHub profile and have more projects to showcas
 ## Translations
 [বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md)
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM @ka11away on Twitter), adding a sub-folder in the 'intl' folder with the files of the translation there.
+If you want to help by providing a translation of content/rules in the language you know, submit a pull request at the [original GitHub repo](https://github.com/Kallaway/100-days-of-code) (or DM [@ka11away](https://twitter.com/ka11away) on Twitter), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
 ## If you've decided to join:
 
@@ -43,5 +45,5 @@ It's recommend that you commit to no more than 2-3 challenges at a time, ideally
 
 ## Note
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out on Twitter: [@ka11away](https://twitter.com/ka11away)
+* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to [@ka11away](https://twitter.com/ka11away) on Twitter. 
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
