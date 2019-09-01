@@ -1,16 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 1: September 1, 2019
+### Day 1: September 1, 2019 - PRELIMINARY ENTRY
 
-**Today's Summary Progress**: Started Brad Schiff's JavaScript course on Udemy (see below link).  Watched Course preview.
+**Today's Summary Progress**: Started Brad Schiff's JavaScript course on Udemy (see below Links).  Watched videos on course preview, introductory lesson,...
 
-**Preliminary Notes**:  
-
+**Notes**:  
 * Course preview distinguishes language (syntax) versus environment (web browser, Node.js, MongoDB).  Need to learn syntax first before worrying about environments language is used in.
+* Played with JS in console of Chrome (see below Links)
 
 **Thoughts:** Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
 
-**Link:** [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+**Links:**
+* Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* Screen shot:  [Played with JS in console of Chrome](https://drive.google.com/open?id=1JsvwvYGR34TGex3mpJhUefDklJ9PUf1d)
 
 <!--### Day 0: February 30, 2016 (Example 2)
     ##### (delete me or comment me out)
