@@ -1,13 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 1, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Summary Progress**: Started Brad Schiff's JavaScript course on Udemy (see below link).  Watched Course preview.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Preliminary Notes**:  
 
-**Link to work:** [Calculator App](http://www.example.com)
+* Course preview distinguishes language (syntax) versus environment (web browser, Node.js, MongoDB).  Need to learn syntax first before worrying about environments language is used in.
+
+**Thoughts:** Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
+
+**Link:** [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 
 <!--### Day 0: February 30, 2016 (Example 2)
     ##### (delete me or comment me out)
