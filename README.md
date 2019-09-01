@@ -1,8 +1,12 @@
 # I've joined the #100DaysOfCode Challenge
 
-My main focus as I work through this challenge will be Brad Schiff's Udemy course ["Learn JavaScript: Full-Stack from Scratch"](https://www.udemy.com/share/101qIy/).  To keep things fresh and interesting for me though, I may also work on any one of the following:
+After completing the [#21DayCkChallenge](https://career-karma.gitbook.io/learn/21dayckchallenge/21dayckchallenge) with [Career Karma](https://career-karma.gitbook.io/learn/), I decided to make the #100DaysOfCode challenge the next adventure in my coding journey.  My main focus as I work through #100DaysOfCode will be Brad Schiff's Udemy course ["Learn JavaScript: Full-Stack from Scratch"](https://www.udemy.com/share/101qIy/).  To keep things fresh and interesting for me though, I might also work on any one of the following:
 
-    
+* [freeCodeCamp's Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
+* [Flatiron School’s Online Coding Bootcamp Prep](https://learn.co/courses/bootcamp-prep)
+* [Lambda School's precourse](https://apply.lambdaschool.com/sign-in/)
+
+I primarily want to build up my GitHub profile and have more projects to showcase.  A secondary goal of mine is to continue to evaluate coding bootcamps, specifically [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp/online) and [Lambda School](https://lambdaschool.com/courses/full-stack-web-development).  (As of August 2019, Flatiron agreed to hold my admissions application and I was conditionally accepted by Lambda through Career Karma's FastTrack program.)
 
 ## Contents
 
