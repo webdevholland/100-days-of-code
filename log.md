@@ -8,7 +8,7 @@
 * Course preview differentiates language (syntax) from environment (web browser, Node.js, MongoDB).  Need to learn syntax first before worrying about environments language is used in.
 * Played with JavaScript in console of Chrome (see Links for the day).  Keywords *let* and *variable* mentioned.
 * Created functions (see Links for the day):  came up with our own names for the functions (arguments) and defined functions with a "recipe".
-* Think of object (see Links for the day) as container in which we can put whatever we want inside (ie inside curly brackets { } )
+* Think of object (see Links for the day) as container which stores properties inside curly brackets { }.
 
 **Thoughts:**
 * Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
