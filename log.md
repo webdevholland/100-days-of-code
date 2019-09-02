@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: September 1, 2019 - PRELIMINARY ENTRY
+### Day 1: September 1, 2019
 
 **Today's Summary Progress**: Started Brad Schiff's JavaScript course on Udemy (see Links for the day).  Watched videos on course preview, introductory lesson, functions and objects.
 
