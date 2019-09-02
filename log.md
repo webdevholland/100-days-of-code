@@ -8,7 +8,7 @@
 * Course preview differentiates language (syntax) from environment (web browser, Node.js, MongoDB).  Need to learn syntax first before worrying about environments language is used in.
 * Played with JavaScript in console of Chrome (see Links for the day).  Keywords *let* and *variable* mentioned.
 * Created functions (see Links for the day):  came up with our own names for the functions (arguments) and defined functions with a "recipe".
-* Think of object (see Links for the day) as container which stores properties inside curly brackets { }.
+* Think of object (see Links for the day) as container which stores properties inside curly brackets { }.  Can look inside object with a dot . For example in cat.name, cat is the object and name is the property stored inside.
 
 **Thoughts:**
 * Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
@@ -19,7 +19,7 @@
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 * Screen shot:  [Played with JS in console of Chrome](https://drive.google.com/open?id=1JsvwvYGR34TGex3mpJhUefDklJ9PUf1d)
 * CodePen #1:  [Function tests](https://codepen.io/webdevholland/pen/GRKMRKM) - Uncomment lines 5, 6 & 13 in Pen to activate functions.
-* CodePen #2:  [Object example](https://codepen.io/webdevholland/pen/PoYJoey?editors=0010)
+* CodePen #2:  [Object example](https://codepen.io/webdevholland/pen/PoYJoey?editors=0010) - Click in preview section at bottom of Pen to activate.
 
 <!--### Day 0: February 30, 2016 (Example 2)
     ##### (delete me or comment me out)
