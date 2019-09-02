@@ -18,7 +18,8 @@
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 * Screen shot:  [Played with JS in console of Chrome](https://drive.google.com/open?id=1JsvwvYGR34TGex3mpJhUefDklJ9PUf1d)
-* CodePen:  [Function tests](https://codepen.io/webdevholland/pen/GRKMRKM) - Uncomment lines 5, 6 & 13 in Pen to activate functions.
+* CodePen #1:  [Function tests](https://codepen.io/webdevholland/pen/GRKMRKM) - Uncomment lines 5, 6 & 13 in Pen to activate functions.
+* CodePen #2:  [Object example](https://codepen.io/webdevholland/pen/PoYJoey?editors=0010)
 
 <!--### Day 0: February 30, 2016 (Example 2)
     ##### (delete me or comment me out)
