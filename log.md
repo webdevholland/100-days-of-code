@@ -2,11 +2,12 @@
 
 ### Day 1: September 1, 2019 - PRELIMINARY ENTRY
 
-**Today's Summary Progress**: Started Brad Schiff's JavaScript course on Udemy (see below Links).  Watched videos on course preview, introductory lesson,...
+**Today's Summary Progress**: Started Brad Schiff's JavaScript course on Udemy (see below Links).  Watched videos on course preview, introductory lesson, functions and objects.
 
 **Notes**:  
 * Course preview distinguishes language (syntax) versus environment (web browser, Node.js, MongoDB).  Need to learn syntax first before worrying about environments language is used in.
 * Played with JavaScript in console of Chrome (see below Links).  Keywords *let* and *variable* mentioned.
+* Created functions:  came up with our own names for the functions (arguments) and defined functions with a "recipe".
 
 **Thoughts:**
 * Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
@@ -16,6 +17,7 @@
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 * Screen shot:  [Played with JS in console of Chrome](https://drive.google.com/open?id=1JsvwvYGR34TGex3mpJhUefDklJ9PUf1d)
+* CodePen:  [Function tests](https://codepen.io/webdevholland/pen/GRKMRKM) - Uncomment lines 5, 6 & 13 in Pen to activate functions.
 
 <!--### Day 0: February 30, 2016 (Example 2)
     ##### (delete me or comment me out)
