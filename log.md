@@ -11,7 +11,7 @@
 **Thoughts:**
 * Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
 * First time playing around with JS in console; previously only tinkered with HTML & CSS in Developer tools.  Recall *let* and *variable* from [Grasshopper](https://grasshopper.codes/) app.
-* Happy to be using CodePen.  Maybe later on I can create Pen using API like [this Studio Ghibli one](https://codepen.io/aimeetacchi/full/eqbxvm).
+* Happy to be using CodePen.  Later on, would love to play around & experiment with others' Pens or have fun with [CodePen Challenges](https://codepen.io/challenges/).
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
