@@ -7,7 +7,7 @@
 **Notes**:  
 * Course preview differentiates language (syntax) from environment (web browser, Node.js, MongoDB).  Need to learn syntax first before worrying about environments language is used in.
 * Played with JavaScript in console of Chrome (see below Links).  Keywords *let* and *variable* mentioned.
-* Created functions:  came up with our own names for the functions (arguments) and defined functions with a "recipe".
+* Created functions (see below Links):  came up with our own names for the functions (arguments) and defined functions with a "recipe".
 
 **Thoughts:**
 * Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
