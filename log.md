@@ -11,14 +11,14 @@
 * Think of object (see Links for the day) as container which stores properties inside curly brackets { }.  Can look inside object with a dot . For example in cat.name, cat is the object and name is the property stored inside.
 
 **Thoughts:**
-* Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
+* Heard of Node.js, but no prior knowledge of or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
 * First time playing around with JS in console; previously only tinkered with HTML & CSS in Developer tools.  Recall *let* and *variable* from Grasshopper app.
 * Happy to be using CodePen.  Later on, would love to experiment with others' Pens or have fun with CodePen Challenges.
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 * Screen shot:  [Played with JS in console of Chrome](https://drive.google.com/open?id=1JsvwvYGR34TGex3mpJhUefDklJ9PUf1d)
-* CodePen #1:  [Function tests](https://codepen.io/webdevholland/pen/GRKMRKM) - Uncomment lines 5, 6 & 13 in Pen to activate functions.
+* CodePen #1:  [Function tests](https://codepen.io/webdevholland/pen/GRKMRKM) - Uncomment lines 5, 6 & 13 in JS editor of Pen to activate functions.
 * CodePen #2:  [Object example](https://codepen.io/webdevholland/pen/PoYJoey?editors=0010) - Click in preview section at bottom of Pen to activate.
 
 <!--### Day 0: February 30, 2016 (Example 2)
