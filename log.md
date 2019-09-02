@@ -2,17 +2,17 @@
 
 ### Day 1: September 1, 2019 - PRELIMINARY ENTRY
 
-**Today's Summary Progress**: Started Brad Schiff's JavaScript course on Udemy (see below Links).  Watched videos on course preview, introductory lesson, functions and objects.
+**Today's Summary Progress**: Started Brad Schiff's JavaScript course on Udemy (see Links for the day).  Watched videos on course preview, introductory lesson, functions and objects.
 
 **Notes**:  
 * Course preview differentiates language (syntax) from environment (web browser, Node.js, MongoDB).  Need to learn syntax first before worrying about environments language is used in.
-* Played with JavaScript in console of Chrome (see below Links).  Keywords *let* and *variable* mentioned.
-* Created functions (see below Links):  came up with our own names for the functions (arguments) and defined functions with a "recipe".
+* Played with JavaScript in console of Chrome (see Links for the day).  Keywords *let* and *variable* mentioned.
+* Created functions (see Links for the day):  came up with our own names for the functions (arguments) and defined functions with a "recipe".
 
 **Thoughts:**
 * Heard of Node.js, but no prior knowledge or experience with it.  Took MongoDB course a while ago when Code School used to exist (it's now Pluralsight).
-* First time playing around with JS in console; previously only tinkered with HTML & CSS in Developer tools.  Recall *let* and *variable* from [Grasshopper](https://grasshopper.codes/) app.
-* Happy to be using CodePen.  Later on, would love to experiment with others' Pens or have fun with [CodePen Challenges](https://codepen.io/challenges/).
+* First time playing around with JS in console; previously only tinkered with HTML & CSS in Developer tools.  Recall *let* and *variable* from Grasshopper app.
+* Happy to be using CodePen.  Later on, would love to experiment with others' Pens or have fun with CodePen Challenges.
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
