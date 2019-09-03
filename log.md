@@ -6,7 +6,7 @@
 
 **Quick Notes**:  
 * Array = collection (see Links for the day). Square brackets used to hold array of items '[ ]'. Add to an array with '.push'. Remove from array with '.splice'. These are examples of methods (method = ability).
-* 'If'/'else' statement, 'if' statement can stand on its own without 'else' block.
+* 'If' / 'else' statement introduced. 'If' statement can stand on its own without 'else' block.
 *
 
 **Thoughts:**
@@ -16,8 +16,8 @@
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #1: [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - See instructions in lines 4, 6, 13, 19 in JS editor of Pen to see in action.
-* CodePen #2: [Making decisions in our code](https://codepen.io/webdevholland/pen/ExYwEQK?editors=0010) - See instructions in line 1, ... in JS editor of Pen to see in action.
+* CodePen #1: [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - Istructions in lines 4, 6, 13, 19 in JS editor of Pen to see in action.
+* CodePen #2: [Making decisions in our code](https://codepen.io/webdevholland/pen/ExYwEQK?editors=0010) - Instructions in lines 1, 11, 15, 24, 28, 37 in JS editor of Pen to see in action.
 
 
 
