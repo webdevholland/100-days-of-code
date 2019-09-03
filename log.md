@@ -10,7 +10,7 @@
 *
 
 **Thoughts:**
-* I also think of array as list of items.
+* Heard of array before, also thought of it as list of items.
 * 
 * 
 
