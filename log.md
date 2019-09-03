@@ -16,7 +16,7 @@
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #1: [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010)
+* CodePen #1: [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - See instruction in line 4 in JS editor of Pen to see in action.
 
 
 ### Day 1: September 1, 2019
@@ -37,8 +37,8 @@
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 * Screen shot:  [Played with JS in console of Chrome](https://drive.google.com/open?id=1JsvwvYGR34TGex3mpJhUefDklJ9PUf1d)
-* CodePen #1:  [Function tests](https://codepen.io/webdevholland/pen/GRKMRKM) - Uncomment lines 5, 6 & 13 in JS editor of Pen to activate.
-* CodePen #2:  [Object example](https://codepen.io/webdevholland/pen/PoYJoey?editors=0010) - Click in preview section at bottom of Pen to activate.
+* CodePen #1:  [Function tests](https://codepen.io/webdevholland/pen/GRKMRKM) - See instructions in lines 5, 6 & 14 in JS editor of Pen to activate.
+* CodePen #2:  [Object example](https://codepen.io/webdevholland/pen/PoYJoey?editors=0010) - See instruction in line 5 in JS editor of Pen to activate.
 
 
 <!--### Day 0: February 30, 2016 (Example 2)
