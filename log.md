@@ -5,7 +5,7 @@
 **Today's Summary Progress**: Watching next three videos in Brad Schiff's JavaScript course (see Links for the day). Arrays, making decisions and higher-order functions covered.
 
 **Quick Notes**:  
-* Array = collection. Square brackets used '[ ]'.
+* Array = collection. Square brackets used '[ ]'. Add to an array via '.push'.
 * 
 * 
 
@@ -16,6 +16,7 @@
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* CodePen #1: [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010)
 
 
 ### Day 1: September 1, 2019
