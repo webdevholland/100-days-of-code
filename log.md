@@ -11,10 +11,10 @@
 
 **Thoughts:**
 * Heard of array before, also thought of it as list of items.
-* Seems counterintuitive, but Brad acknowledging that lessons not too exciting so far feels like him saying, "I know this has been tough to go through, but hang in there". Foundation being laid for more exciting things to come- like building own application! Am encouraged :-)
+* Brad acknowledges that lessons not too exciting so far. Like he's saying, "I know this has been tough to go through, but hang in there". Foundation being laid for more exciting things to come- like building own application! Looking forward to progressing through rest of course :-)
 * 
 
-**Links:**
+**Links
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 * CodePen #1: [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - Istructions in lines 4, 6, 13, 19 in JS editor of Pen to see in action.
 * CodePen #2: [Making decisions in our code](https://codepen.io/webdevholland/pen/ExYwEQK?editors=0010) - Instructions in lines 1, 11, 15, 24, 28, 37 in JS editor of Pen to see in action.
