@@ -12,7 +12,7 @@
 **Thoughts:**
 * Heard of array before, also thought of it as list of items.
 * Brad acknowledges that lessons not too exciting so far. Like he's saying, "I know this has been tough to go through, but hang in there". Foundation being laid for more exciting things to come- like building own application! Looking forward to progressing through rest of course :-)
-* I hope I can function today (no pun intended), having gotten much sleep ZZZzzzz
+* I hope I can function today (no pun intended), haven't gotten much sleep ZZZzzzz
 
 **Links
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
