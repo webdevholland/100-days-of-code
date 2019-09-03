@@ -2,7 +2,7 @@
 
 ### Day 2: September 2, 2019 - PRELIMINARY ENTRY
 
-**Today's Summary Progress**: Watching next three videos in Brad Schiff's JavaScript course (see Links for the day). Arrays, making decisions and higher-order functions covered.
+**Today's Summary Progress**: Watched next three videos in Brad Schiff's JavaScript course (see Links for the day). Arrays, making decisions and higher-order functions covered.
 
 **Quick Notes**:  
 * Array = collection (see Links for the day). Square brackets used to hold array of items '[ ]'. Add to an array with '.push'. Remove from array with '.splice'. These are examples of methods (method = ability).
@@ -12,7 +12,7 @@
 **Thoughts:**
 * Heard of array before, also thought of it as list of items.
 * Brad acknowledges that lessons not too exciting so far. Like he's saying, "I know this has been tough to go through, but hang in there". Foundation being laid for more exciting things to come- like building own application! Looking forward to progressing through rest of course :-)
-* 
+* I hope I can function today (no pun intended), having gotten much sleep ZZZzzzz
 
 **Links
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
