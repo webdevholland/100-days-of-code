@@ -7,7 +7,7 @@
 **Quick Notes**:  
 * Array = collection (see Links for the day). Square brackets used to hold array of items '[ ]'. Add to an array with '.push'. Remove from array with '.splice'. These are examples of methods (method = ability).
 * 'If' / 'else' statement introduced. 'If' statement can stand on its own without 'else' block.
-* Higher-order function part I: function accepting another function as an argument. To see example, scroll down to Day 1 of this Log and within Links, click next to CodePen #2.  In CodePen #2, 'ChristinesFunction' is function passed as argument. 
+* Higher-order function, part I: function accepting another function as an argument. To see example, scroll down to Day 1 of this Log and within Links, click next to CodePen #2 or "Object example" hyperlink.  See line 1 in JS editor of Object example Pen which shows function called 'ChristinesFunction' passed as argument. 
 
 **Thoughts:**
 * Heard of array before, also thought of it as list of items.
