@@ -14,7 +14,7 @@
 * Brad acknowledges that lessons not too exciting so far. Like he's saying, "I know this has been tough to go through, but hang in there". Foundation being laid for more exciting things to come- like building own application! Looking forward to progressing through rest of course :-)
 * I hope I can function today (no pun intended), haven't gotten much sleep ZZZzzzz
 
-**Links
+**Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 * CodePen #3:  [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - Instructions in lines 4, 6, 13, 19 in JS editor of Pen to see in action.
 * CodePen #4:  [Making decisions in our code](https://codepen.io/webdevholland/pen/ExYwEQK?editors=0010) - Instructions in lines 1, 11, 15, 24, 28, 37 in JS editor of Pen to see in action.
