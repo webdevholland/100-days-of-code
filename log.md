@@ -16,7 +16,7 @@
 
 **Links
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #3:  [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - Istructions in lines 4, 6, 13, 19 in JS editor of Pen to see in action.
+* CodePen #3:  [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - Instructions in lines 4, 6, 13, 19 in JS editor of Pen to see in action.
 * CodePen #4:  [Making decisions in our code](https://codepen.io/webdevholland/pen/ExYwEQK?editors=0010) - Instructions in lines 1, 11, 15, 24, 28, 37 in JS editor of Pen to see in action.
 * CodePen #5:  [Higher-order function](https://codepen.io/webdevholland/pen/zYOEaOa?editors=0010) - Instructions in lines 13 - 15 in JS editor of Pen to see in action.
 
