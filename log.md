@@ -5,9 +5,9 @@
 **Today's Summary Progress**: Watching next three videos in Brad Schiff's JavaScript course (see Links for the day). Arrays, making decisions and higher-order functions covered.
 
 **Quick Notes**:  
-* Array = collection. Square brackets used '[ ]'. Add to an array via '.push'.
-* 
-* 
+* Array = collection. Square brackets used to hold array of items '[ ]'. Add to an array with '.push'. Remove from array with '.splice'. These are examples of methods (method = ability).
+*
+*
 
 **Thoughts:**
 * I also think of array as list of items.
@@ -16,7 +16,7 @@
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #1: [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - See instruction in line 4 in JS editor of Pen to see in action.
+* CodePen #1: [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - See instructions in lines 4, 6, 13, 19 in JS editor of Pen to see in action.
 
 
 ### Day 1: September 1, 2019
