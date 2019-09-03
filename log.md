@@ -5,7 +5,7 @@
 **Today's Summary Progress**: Watching next three videos in Brad Schiff's JavaScript course (see Links for the day). Arrays, making decisions and higher-order functions covered.
 
 **Quick Notes**:  
-* Array = collection
+* Array = collection. Square brackets used '[ ]'.
 * 
 * 
 
