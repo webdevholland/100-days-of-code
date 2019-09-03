@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 2: September 2, 2019 - PRELIMINARY ENTRY
+### Day 2: September 2, 2019
 
 **Today's Summary Progress**: Watched next three videos in Brad Schiff's JavaScript course (see Links for the day). Arrays, making decisions and higher-order functions covered.
 
 **Quick Notes**:  
 * Array = collection (see Links for the day). Square brackets used to hold array of items '[ ]'. Add to an array with '.push'. Remove from array with '.splice'. These are examples of methods (method = ability).
 * 'If' / 'else' statement introduced. 'If' statement can stand on its own without 'else' block.
-* Higher-order function, part I: function accepting another function as an argument. To see example, scroll down to Day 1 of this Log and within Links, click next to CodePen #2 or "Object example" hyperlink.  See line 1 in JS editor of Object example Pen which shows function called 'ChristinesFunction' passed as argument. Higher-order function, part II: function returning another function as a result (see CodePen #5 under Links for Day 2)
+* Higher-order function, part I: function accepting another function as an argument. To see example, scroll down to Day 1 of this Log and within Links, click next to CodePen #2 or "Object example" hyperlink.  See line 1 in JS editor of Object example Pen which shows function called 'ChristinesFunction' passed as argument. Higher-order function, part II: function returning another function as a result (see CodePen #5 under Links for Day 2) '.forEach' method introduced & demonstrated with example using array. '.map' and '.filter' other methods mentioned.
 
 **Thoughts:**
 * Heard of array before, also thought of it as list of items.
