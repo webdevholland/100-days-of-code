@@ -7,7 +7,7 @@
 **Quick Notes**:  
 * Array = collection (see Links for the day). Square brackets used to hold array of items '[ ]'. Add to an array with '.push'. Remove from array with '.splice'. These are examples of methods (method = ability).
 * 'If' / 'else' statement introduced. 'If' statement can stand on its own without 'else' block.
-*
+* Higher-order function part I: function accepting another function as an argument. To see example, scroll down to Day 1 of this Log and within Links, click next to CodePen #2.  In CodePen #2, 'ChristinesFunction' is function passed as argument. 
 
 **Thoughts:**
 * Heard of array before, also thought of it as list of items.
@@ -16,8 +16,8 @@
 
 **Links
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #1: [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - Istructions in lines 4, 6, 13, 19 in JS editor of Pen to see in action.
-* CodePen #2: [Making decisions in our code](https://codepen.io/webdevholland/pen/ExYwEQK?editors=0010) - Instructions in lines 1, 11, 15, 24, 28, 37 in JS editor of Pen to see in action.
+* CodePen #3: [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - Istructions in lines 4, 6, 13, 19 in JS editor of Pen to see in action.
+* CodePen #4: [Making decisions in our code](https://codepen.io/webdevholland/pen/ExYwEQK?editors=0010) - Instructions in lines 1, 11, 15, 24, 28, 37 in JS editor of Pen to see in action.
 
 
 
