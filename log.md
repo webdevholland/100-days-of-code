@@ -6,7 +6,7 @@
 
 **Quick Notes**:  
 * Recall from previous lesson '.push' method to add to an array. This changes or mutates array.
-* 
+* In CodePen #6 (see Links for the day), '.push' not only mutated array, but also returned number of items/objects in array (in this case, four animals in 'pets' array).
 * 
 
 **Thoughts:**
