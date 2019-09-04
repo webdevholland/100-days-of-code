@@ -5,7 +5,7 @@
 **Today's Summary Progress**: Watched next video in Brad Schiff's JavaScript course (see Links for the day).  Difference between returning & mutating covered.
 
 **Quick Notes**:  
-* 
+* Recall from previous lesson '.push' method to add to an array. This changes or mutates array.
 * 
 * 
 
