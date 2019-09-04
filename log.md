@@ -12,9 +12,9 @@
 **Thoughts:**
 * 
 * 
-* Gotta remember to include pic of below Pen when I tweet today's progress!
+* Gotta remember to include pic of below Pen when I tweet today's progress at [@webdevholland](https://twitter.com/webdevholland)!
 
-**Links:**
+**Links:**[]
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 * CodePen #6:  [Returning vs mutating](https://codepen.io/webdevholland/pen/pozdEbJ?editors=0010) - Instructions in lines   in JS editor of Pen to see in action.
 * 
