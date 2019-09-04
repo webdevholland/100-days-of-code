@@ -2,7 +2,7 @@
 
 ### Day 3: September 3-4, 2019 (worked overnight into AM) - PRELIMINARY ENTRY
 
-**Today's Summary Progress**: Watched next video in Brad Schiff's JavaScript course (see Links for the day).   covered.
+**Today's Summary Progress**: Watched next video in Brad Schiff's JavaScript course (see Links for the day).  Difference between returning & mutating covered.
 
 **Quick Notes**:  
 * 
@@ -12,7 +12,7 @@
 **Thoughts:**
 * 
 * 
-* 
+* Gotta remember to include pics of any Pens I create when I tweet today's progress!
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
