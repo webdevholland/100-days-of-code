@@ -12,11 +12,11 @@
 **Thoughts:**
 * 
 * 
-* Gotta remember to include pics of any Pens I create when I tweet today's progress!
+* Gotta remember to include pic of below Pen when I tweet today's progress!
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #6:  [ ](https:// ) - Instructions in lines   in JS editor of Pen to see in action.
+* CodePen #6:  [Returning vs mutating](https://codepen.io/webdevholland/pen/pozdEbJ?editors=0010) - Instructions in lines   in JS editor of Pen to see in action.
 * 
 * 
 
