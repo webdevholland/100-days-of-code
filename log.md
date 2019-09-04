@@ -1,6 +1,29 @@
 # 100 Days Of Code - Log
 
-### Day 2: September 2, 2019
+### Day 3: September 3-4, 2019 (worked overnight into AM) - PRELIMINARY ENTRY
+
+**Today's Summary Progress**: Watched next video in Brad Schiff's JavaScript course (see Links for the day).   covered.
+
+**Quick Notes**:  
+* 
+* 
+* 
+
+**Thoughts:**
+* 
+* 
+* 
+
+**Links:**
+* Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* CodePen #6:  [ ](https:// ) - Instructions in lines   in JS editor of Pen to see in action.
+* 
+* 
+
+
+
+
+### Day 2: September 2-3, 2019 (worked overnight into AM)
 
 **Today's Summary Progress**: Watched next three videos in Brad Schiff's JavaScript course (see Links for the day). Arrays, making decisions and higher-order functions covered.
 
@@ -22,7 +45,7 @@
 
 
 
-### Day 1: September 1, 2019
+### Day 1: September 1-2, 2019 (worked overnight into AM)
 
 **Today's Summary Progress**: Started Brad Schiff's JavaScript course on Udemy (see Links for the day).  Watched videos on course preview, introductory lesson, functions and objects.
 
