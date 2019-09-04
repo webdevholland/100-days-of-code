@@ -1,25 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 3: September 3-4, 2019 (worked overnight into AM) - PRELIMINARY ENTRY
+### Day 3: September 3-4, 2019 (worked overnight into AM)
 
-**Today's Summary Progress**: Watched next video in Brad Schiff's JavaScript course (see Links for the day).  Difference between returning & mutating covered.
+**Today's Summary Progress**: Started to watch next video in Brad Schiff's JavaScript course (see Links for the day).  Difference between returning & mutating covered.  Didn't finish watching video; will continue in Day 4.
 
 **Quick Notes**:  
 * Recall from previous lesson '.push' method to add to an array. This changes or mutates array.
-* In CodePen #6 (see Links for the day), '.push' not only mutated array, but also returned number of items/objects in array (in this case, four animals in 'pets' array).
-* Recall '.map' & '.filter' methods first mentioned in last video watched. These two methods extremely useful in even though they only return number of items in array, not mutate array.
+* In Pen #6 (see Links for the day), '.push' not only mutated array, but also returned number of items/objects in array (in this case, four animals in 'pets' array).
+* Recall '.map' & '.filter' methods first mentioned in last video watched. These two methods extremely useful even though they only return number of items in array, not mutate array.
 
 **Thoughts:**
-* 
-* Gotta remember to include pic of below Pen when I tweet today's progress at [@webdevholland](https://twitter.com/webdevholland).
-* Helps that I'll be working my day job from home on 9/4 (starts in several hours).
+* Will include pic of Pen #6 when I tweet today's progress at [@webdevholland](https://twitter.com/webdevholland).
+* Will also tweet link to Collection of pens I've created so far.
+* Soooooo glad I'll be working my day job from home (starts in several hours).
+* Gotta go to sleep!!! 
 
-**Links:**[]
+**Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #6:  [Returning vs mutating](https://codepen.io/webdevholland/pen/pozdEbJ?editors=0010) - Instructions in lines   in JS editor of Pen to see in action.
-* 
-* 
-
+* CodePen #6:  [Returning vs mutating](https://codepen.io/webdevholland/pen/pozdEbJ?editors=0010) - Instructions in lines 7, 12 & 18 in JS editor of Pen to see in action.
 
 
 
