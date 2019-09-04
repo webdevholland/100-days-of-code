@@ -12,7 +12,7 @@
 **Thoughts:**
 * 
 * Gotta remember to include pic of below Pen when I tweet today's progress at [@webdevholland](https://twitter.com/webdevholland).
-* Helps that I'll be working my day job from home tomorrow (which starts in several hours).
+* Helps that I'll be working my day job from home on 9/4 (starts in several hours).
 
 **Links:**[]
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
