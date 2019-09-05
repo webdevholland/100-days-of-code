@@ -7,7 +7,8 @@
 **Quick Notes**:  
 * Picked right back up with two array methods that are extremely valuable even though all they do is return values, not mutate array:  array.map() & array.filter().
 * Forked yesterday's Pen to create CodePen #7 (see Links for the day).
-* 
+* '.map()' is higher-order function:  it accepts another function as an argument.
+*
 
 **Thoughts:**
 * 
