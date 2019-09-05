@@ -19,7 +19,7 @@
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #7:  [Returning vs mutating2](https://codepen.io/webdevholland/pen/NWKwVxN) - Follow instructions that are commented out with forward slashes '//' in JS editor of Pen to see in action.
+* CodePen #7:  [Returning vs mutating2](https://codepen.io/webdevholland/pen/NWKwVxN?editors=0010) - Follow instructions that are commented out with forward slashes '//' in JS editor of Pen to see in action.
 
 
 
