@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 4: September 4-5, 2019 (worked overnight into AM) - PRELIMINARY ENTRY
+### Day 4: September 4-5, 2019 (worked overnight into AM)
 
 **Today's Summary Progress**: Continued watching video in Brad Schiff's JavaScript course (see Links for the day).  Same topic- returning vs mutating.
 
@@ -9,16 +9,16 @@
 * Forked yesterday's Pen to create CodePen #7 (see Links for the day).
 * '.map()' is higher-order function:  it accepts another function as an argument.  '.map()' function returns a brand new array.
 * '.filter()' is another higher-order function that also returns a brand new array.
+* '.map()' & '.filter()' can become incredibly powerful because they can be chained together as in this example:  let babyDogNames = pets.filter(onlyDogs).filter(onlyBabies).map(nameOnly).
 
 **Thoughts:**
-* 
-* 
-* 
+* Bookmark feature available with video is very helpful... knew exactly where to pick right up from yesterday
+* Found myself replaying video at certain points because I nodded off... not because material is boring, but because it's 4 am... again
 * Caught in vicious cycle of working overnight... hope to break free of this pattern this coming weekend... 
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #7:  [Returning vs mutating2]( ) - Instructions in lines  in JS editor of Pen to see in action.
+* CodePen #7:  [Returning vs mutating2](https://codepen.io/webdevholland/pen/NWKwVxN) - Follow instructions that are commented out with forward slashes '//' in JS editor of Pen to see in action.
 
 
 
