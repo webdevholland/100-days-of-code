@@ -5,8 +5,8 @@
 **Today's Summary Progress**: Continued watching video in Brad Schiff's JavaScript course (see Links for the day).  Same topic- returning vs mutating.
 
 **Quick Notes**:  
-* 
-* 
+* Picked right back up with two array methods that are extremely valuable even though all they do is return values, not mutate array:  array.map() & array.filter().
+* Forked yesterday's Pen to create CodePen #7 (see Links for the day).
 * 
 
 **Thoughts:**
