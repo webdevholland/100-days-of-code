@@ -10,6 +10,7 @@
 * '.map()' is higher-order function:  it accepts another function as an argument.  '.map()' function returns a brand new array.
 * '.filter()' is another higher-order function that also returns a brand new array.
 * '.map()' & '.filter()' can become incredibly powerful because they can be chained together as in this example:  let babyDogNames = pets.filter(onlyDogs).filter(onlyBabies).map(nameOnly).
+* More examples to come of chaining of data types; this isn't limited to arrays only.
 
 **Thoughts:**
 * Bookmark feature available with video is very helpful... knew exactly where to pick right up from yesterday
