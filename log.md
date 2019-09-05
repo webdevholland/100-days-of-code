@@ -13,9 +13,9 @@
 * More examples to come of chaining of data types; this isn't limited to arrays only.
 
 **Thoughts:**
-* Bookmark feature available with video is very helpful... knew exactly where to pick right up from yesterday
-* Found myself replaying video at certain points because I nodded off... not because material is boring, but because it's 4 am... again
-* Caught in vicious cycle of working overnight... hope to break free of this pattern this coming weekend... 
+* Bookmark feature available with video is very helpful... knew exactly where to pick right up from yesterday.
+* Found myself replaying video at certain points because I nodded off... not because material is boring, but because it's 4 am... again...
+* Caught in vicious cycle of working overnight... hope to break free of this pattern this coming weekend (just two more days!) 
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
