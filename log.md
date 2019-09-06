@@ -6,7 +6,7 @@
 
 **Quick Notes**:  
 * *Haven't actually gone to bed!  Dozed off on couch, got up around 3 am and started working on computer (first spent time pulling together notes for my other challenge, [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog)).  Will be back working on #100DaysOfCode again later today for Day 6.
-* 
+* Scope --> variables.  Context --> objects.
 * 
 * 
 * 
