@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 5: September 6, 2019 - AM session* - PRELIMINARY ENTRY
+
+**Today's Summary Progress**:  Moved on to next video in Brad Schiff's JavaScript course (see Links for the day).  "Scope & Context (Part 1)".
+
+**Quick Notes**:  
+* *Haven't actually gone to bed!  Dozed off on couch, got up around 3 am and started working on computer (first spent time pulling together notes for my other challenge, [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog)).  Will be back working on #100DaysOfCode again later today.
+* 
+* 
+* 
+* 
+* 
+
+**Thoughts:**
+* 
+* 
+* TGIF!!!  Starting tomorrow, hope to get back to a better schedule where I'm actually recording what I do ON THE SAME DAY I begin an activity!
+
+**Links:**
+* Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* CodePen #8:  [Scope & Context pt 1]() - To see in action, follow instructions that are commented out with forward slashes '//' in JS editor of Pen.
+
+
+
 ### Day 4: September 4-5, 2019 (worked overnight into AM)
 
 **Today's Summary Progress**: Continued watching video in Brad Schiff's JavaScript course (see Links for the day).  Same topic- returning vs mutating.
