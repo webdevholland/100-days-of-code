@@ -17,7 +17,7 @@
 * TGIF!!!  Starting tomorrow, hope to get back to a better schedule where I'm actually recording what I do ON THE SAME DAY I begin an activity!
 
 **Links:**
-* Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* Udemy course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 * CodePen #8:  [Scope & Context pt 1](https://codepen.io/webdevholland/pen/YzKYvYM) - To see in action, follow instructions that are commented out with forward slashes '//' in JS editor of Pen.
 
 
