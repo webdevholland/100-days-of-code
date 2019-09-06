@@ -5,12 +5,12 @@
 **Today's Summary Progress**:  Moved on to next video in Brad Schiff's JavaScript course (see Links for the day).  "Scope & Context (Part 1)".
 
 **Quick Notes**:  
-* *Never went to bed!  Dozed off on couch, got up around 3 am and started working on computer (first spent time pulling together notes for my other challenge, [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog)).  Will be back working on #100DaysOfCode again later today for Day 6.
+* *Never went to bed!  Dozed off on couch, got up around 3 am and started working on computer (first spent time pulling together notes for my other challenge, [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog).
 * Scope --> variables.  Context --> objects.
 * Global vs local scope --> when code is executed, variables are read from the inside out, going up one level at a time.
 * Same label name can be used for variables at different levels of scope.
 * Refer to CodePen #8 (see Links for the day).
-* To be continued later today as part of Day 6 of #100DaysOfCode.
+* To be continued later today for Day 6 of #100DaysOfCode.
 
 **Thoughts:**
 * Feel like things are starting to make more sense to me (i.e. global vs local scope).  Various levels of scope makes me think of a staircase.
