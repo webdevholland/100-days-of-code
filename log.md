@@ -1,25 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 5: September 6, 2019 - AM session* - PRELIMINARY ENTRY
+### Day 5: September 6, 2019 - AM session*
 
 **Today's Summary Progress**:  Moved on to next video in Brad Schiff's JavaScript course (see Links for the day).  "Scope & Context (Part 1)".
 
 **Quick Notes**:  
 * *Haven't actually gone to bed!  Dozed off on couch, got up around 3 am and started working on computer (first spent time pulling together notes for my other challenge, [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog)).  Will be back working on #100DaysOfCode again later today for Day 6.
 * Scope --> variables.  Context --> objects.
-* 
-* 
-* 
-* 
+* Global vs local scope --> when code is executed, variables are read from the inside out, going up one level at a time.
+* Same label name can be used for variables at different levels of scope.
+* Refer to CodePen #8 (see Links for the day).
+* To be continued later today as part of Day 6 of #100DaysOfCode.
 
 **Thoughts:**
-* 
-* 
+* Feel like things are starting to make more sense to me (i.e. global vs local scope).  Various levels of scope makes me think of a staircase.
 * TGIF!!!  Starting tomorrow, hope to get back to a better schedule where I'm actually recording what I do ON THE SAME DAY I begin an activity!
 
 **Links:**
 * Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #8:  [Scope & Context pt 1]() - To see in action, follow instructions that are commented out with forward slashes '//' in JS editor of Pen.
+* CodePen #8:  [Scope & Context pt 1](https://codepen.io/webdevholland/pen/YzKYvYM) - To see in action, follow instructions that are commented out with forward slashes '//' in JS editor of Pen.
 
 
 
