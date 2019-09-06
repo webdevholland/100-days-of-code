@@ -5,7 +5,7 @@
 **Today's Summary Progress**:  Moved on to next video in Brad Schiff's JavaScript course (see Links for the day).  "Scope & Context (Part 1)".
 
 **Quick Notes**:  
-* * *Haven't actually gone to bed!  Dozed off on couch, got up around 3 am and started working on computer (first spent time pulling together notes for my other challenge, [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog)).  Will be back working on [#100DaysOfCode] (https://github.com/webdevholland/100-days-of-code/blob/master/log.md#100-days-of-code---log) again later today.*
+* *Haven't actually gone to bed!  Dozed off on couch, got up around 3 am and started working on computer (first spent time pulling together notes for my other challenge, [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog)).  Will be back working on #100DaysOfCode again later today.
 * 
 * 
 * 
