@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-*Updated Sept. 7, 2019:*
+*Updated Sept. 7, 2019:<br>*
 After completing the [#21DayCkChallenge](https://career-karma.gitbook.io/learn/21dayckchallenge/21dayckchallenge) with [Career Karma](https://career-karma.gitbook.io/learn/), I decided to take the #100DaysOfCode challenge as the next adventure in my coding journey.  My main focus as I work through #100DaysOfCode will be Brad Schiff's Udemy course ["Learn JavaScript: Full-Stack from Scratch"](https://www.udemy.com/share/101qIy/).  To keep things fresh and interesting, I might also work on:
 
 * [#JavaScript30 - Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
