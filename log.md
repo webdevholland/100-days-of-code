@@ -2,16 +2,18 @@
 
 ### Day 6: September 7, 2019 - AM session* - PRELIMINARY ENTRY
 
+*Background:  Went to bed last night as opposed to falling asleep on the couch & getting up in the wee hours of the morning.  So, instead of working on this overnight like I have been doing every day since I started #100DaysOfCode, I'm working on this now at a time when most are starting their day.  If I can come back to work on another round of this challenge later tonight, I'm counting it as Day 7.  In my README.md as well as in the Rules & FAQ sections of this repo, I can eventually explain 'how' & 'why' I might be modifying the rules to better suit my lifestyle.  (I don't want to get bogged down by rules.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.)
+
 **Today's Summary Progress**:  Continued from yesterday & finished "Scope & Context (Part 1)" in Brad Schiff's JavaScript course (see Links for the day).
 
 **Quick Notes**:  
-* *Went to bed last night as opposed to falling asleep on the couch & getting up in the wee hours of the morning.  So, instead of working on this overnight like I have been doing every day since I started #100DaysOfCode, I'm working on this now at a time when most are starting their day.  If I can come back to work on another round of this challenge later tonight, I'm counting it as Day 7.  I'll eventually explain the 'how' & 'why' I might be bending the rules in my README.md as well as in the Rules & FAQ sections of this repo. 
 * 
 * 
 * 
 * Refer to CodePen #9 (see Links for the day).
 
 **Thoughts:**
+* 
 * 
 * 
 
@@ -21,17 +23,17 @@
 
 
 
-### Day 5: September 5-6, 2019 (worked overnight into AM)
+### Day 5: September 5-6, 2019 (worked overnight into AM)*
+
+*Background:  Never went to bed!  Dozed off on couch, got up around 3 am & started working on computer (first spent time documenting my other challenge, [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog).
 
 **Today's Summary Progress**:  Moved on to next video in Brad Schiff's JavaScript course (see Links for the day).  "Scope & Context (Part 1)".
 
-**Quick Notes**:  
-* Never went to bed!  Dozed off on couch, got up around 3 am & started working on computer (first spent time documenting my other challenge, [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog).
+**Quick Notes**:
 * Scope --> variables.  Context --> objects.
 * Global vs local scope --> when code is executed, variables are read from the inside out, going up one level at a time.
 * Same label name can be used for variables at different levels of scope.
 * Refer to CodePen #8 (see Links for the day).
-* To be continued later today for Day 6 of #100DaysOfCode.
 
 **Thoughts:**
 * Feel like things are starting to make more sense to me (i.e. global vs local scope).  Various levels of scope makes me think of a staircase.
