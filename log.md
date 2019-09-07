@@ -4,10 +4,10 @@
 
 ***Background**:  Went to bed last night as opposed to falling asleep on the couch & getting up in the wee hours of the morning.  So, instead of working on this overnight like I have been doing every day since I started #100DaysOfCode, I'm working on this now at a time when most are starting their day.  If I can come back to work on another round of this challenge later tonight, I'm counting it as Day 7.  In my README.md as well as in the Rules & FAQ sections of this repo, I can eventually explain 'how' & 'why' I might be modifying the rules to better suit my lifestyle.  (I don't want to get bogged down by rules.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.)
 
-**Today's Summary Progress**:  Continued from yesterday & finished "Scope & Context (Part 1)" in Brad Schiff's JavaScript course (see Links for the day).
+**Today's Summary Progress**:  Continued from yesterday "Scope & Context (Part 1)" in Brad Schiff's JavaScript course (see Links for the day).
 
 **Quick Notes**:  
-* 
+* Possible to modify or mutate variable in global scope from within local scope
 * 
 * 
 * Refer to CodePen #9 (see Links for the day).
