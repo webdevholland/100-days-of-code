@@ -12,7 +12,8 @@
 * Declare variable = create variable
 * 'let' didn't exist until about 3 or 4 years ago.  If looking at someone else's older code, may see 'var' instead of 'let'.
 * 'let' uses block scope... code looks for nearest enclosing block as defined by curly brackets '{ }'.
-* 'var' uses function scope.
+* 'var' uses function scope... only cares about curly brackets '{ }' of a function.
+* 
 * 
 * Refer to CodePen #9 (see Links for the day).
 
