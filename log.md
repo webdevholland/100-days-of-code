@@ -11,8 +11,8 @@
 * "Scope moves in one direction.  It is a one-way street." (starting from within the inside and then going out)
 * Declare variable = create variable
 * 'let' didn't exist until about 3 or 4 years ago.  If looking at someone else's older code, may see 'var' instead of 'let'.
-* 'let' uses block scope.  'var' uses function scope.
-* 
+* 'let' uses block scope... code looks for nearest enclosing block as defined by curly brackets '{ }'.
+* 'var' uses function scope.
 * 
 * Refer to CodePen #9 (see Links for the day).
 
