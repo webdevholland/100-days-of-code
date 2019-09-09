@@ -2,7 +2,7 @@
 
 ### Days 7 & 8: September 8, 2019* - PRELIMINARY ENTRY
 
-***Background**:  Meant to do Day 7 last night, but didn't which was why it got combined with Day 8 today.
+***Background**:  Meant to do Day 7 last night, but didn't which was why it got combined with Day 8 today.  Spent minimum of 2 hours on coding instead of just 1.
 
 ***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
 
@@ -14,19 +14,20 @@
 * Even though may be too early at this stage to learn about scope & context, still good to keep these in mind as you're debugging your code.
 * Method '.this' is introduced --> allows flexibility.
 * 
-* 
+* .  
 * 
 * 
 * 
 * Refer to CodePen #10 (see Links for the day).
 
 **Thoughts:**
-* 
-* 
+* Tried something new:  watched video straight through without pausing while taking *handwritten* notes.  Then, later on, transferred notes to this repo's log.md.  Replayed relevant parts of video to fill in any gaps in log.md as well as recreate video's code in CodePen.  Think I like this new way better instead of watching video for first time while updating log.md and working on Pen.
+* Feel like my writing is improving (particularly editing skills) which will come in handy later once ready to start blogging.  Hmmm, maybe once #100DaysOfFitness done (see Links for the day), can move on to #100DaysOfBlogging?
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
 * CodePen #10:  [Scope & Context - day 2](https://codepen.io/webdevholland) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
+* Other 100 Days challenge:  [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog)
 
 
 
