@@ -6,7 +6,7 @@
 
 ***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
 
-**Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (scope was in Part 1 video).  Created CodePen #10 (see Links for the day).  For next day, will continue working on this Pen or create another Pen further demonstrating concept of context.
+**Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (scope was in Part 1 video).  Created CodePen #10 (see Links for the day).  For next day, will continue working on this Pen or create another Pen further demonstrating concept of context.  Also watched next video "Miscellaneous Info (Part 1)" after "Scope & Context (Part 2)" video but this day's log entry only about context.
 
 **Quick Notes**:
 * Context has to do with objects.
