@@ -6,13 +6,13 @@
 
 ***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
 
-**Today's Summary Progress**:  Watched "Scope & Context (Part 2)" in Brad Schiff's JavaScript course (see Links for the day).
+**Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (it was scope in Part 1 video).
 
 **Quick Notes**:  
-* 
-* 
-* 
-* 
+* Context has to do with objects.
+* As with scope, confusion over context can lead to problems with code.
+* Even though may be too early at this stage to learn about scope & context, still good to keep these in mind as you're debugging your code.
+* Method '.this' is introduced --> allows flexibility.
 * 
 * 
 * 
@@ -26,7 +26,7 @@
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #10:  [Scope & Context - day 2](https://codepen.io/webdevholland/pen/PoYQqxq) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
+* CodePen #10:  [Scope & Context - day 2](https://codepen.io/webdevholland) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
 
 
 
