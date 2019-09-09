@@ -8,7 +8,7 @@
 
 **Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (it was scope in Part 1 video).
 
-**Quick Notes***:
+**Quick Notes***:<br>
 ***Might add to or revise these Quick Notes on Day 9.*
 
 * Context has to do with objects.
