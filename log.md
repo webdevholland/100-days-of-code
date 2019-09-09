@@ -1,33 +1,27 @@
 # 100 Days Of Code - Log
 
-### Days 7 & 8: September 8, 2019* - PRELIMINARY ENTRY
+### Days 7 & 8: September 8, 2019*
 
 ***Background**:  Meant to do Day 7 last night, but didn't which was why it got combined with Day 8 today.  Spent minimum of 2 hours on coding instead of just 1.
 
 ***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
 
-**Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (it was scope in Part 1 video).
+**Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (scope was in Part 1 video).  Created CodePen #10 (see Links for the day).  Will continue working on this Pen next day or create another Pen demonstrating concept of context.
 
-**Quick Notes***:<br>
-(*Might add to or revise these Quick Notes on Day 9.)
+**Quick Notes***:
 * Context has to do with objects.
 * As with scope, confusion over context can lead to problems with code.
 * Even though may be too early at this stage to learn about scope & context, still good to keep these in mind as you're debugging your code.
-* Method '.this' is introduced --> allows flexibility.
-* '.this' points to function that is executing.
-*  
-* 
-* 
-* 
-* Refer to CodePen #10 (see Links for the day).
+* Keyword 'this' is introduced --> allows flexibility.
+* 'this' points to function that is executing.
 
 **Thoughts:**
 * Tried something new:  watched video straight through without pausing while taking *handwritten* notes.  Then, later on, transferred notes to this repo's log.md.  Replayed relevant parts of video to fill in any gaps in log.md as well as recreate video's code in CodePen.  Think I like this new way better instead of watching video for first time while updating log.md and working on Pen.
 * Feel like my writing is improving (particularly editing skills) which will come in handy later once ready to start blogging.  Hmmm, maybe once #100DaysOfFitness done (see Links for the day), can move on to #100DaysOfBlogging?
 
 **Links:**
-* Udemy course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #10:  [Scope & Context - day 2](https://codepen.io/webdevholland) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
+* Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
+* CodePen #10:  [Scope & Context - day 2](https://codepen.io/webdevholland/pen/bGbLORx) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
 * Other 100 Days challenge:  [#100DaysOfFitness](http://bit.ly/100DaysOfFitnessFullLog)
 
 
@@ -57,7 +51,7 @@
 * Connected with & understood material better when I took notes (was probably the case as well when I was in college ages ago).
 
 **Links:**
-* Udemy course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
 * CodePen #9:  [Scope & Context pt 1 - day 2](https://codepen.io/webdevholland/pen/PoYQqxq) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
 
 
@@ -79,7 +73,7 @@
 * TGIF!!!  Starting tomorrow, hope to get back to a better schedule where I'm actually recording what I do ON THE SAME DAY I begin an activity!
 
 **Links:**
-* Udemy course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
 * CodePen #8:  [Scope & Context pt 1 - day 1](https://codepen.io/webdevholland/pen/YzKYvYM) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
 
 
@@ -102,7 +96,7 @@
 * Caught in vicious cycle of working overnight... hope to break free of this pattern this coming weekend (just two more days!) 
 
 **Links:**
-* Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* Course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
 * CodePen #7:  [Returning vs mutating2](https://codepen.io/webdevholland/pen/NWKwVxN?editors=0010) - Follow instructions that are commented out with forward slashes '//' in JS editor of Pen to see in action.
 
 
@@ -123,7 +117,7 @@
 * Gotta go to sleep!!! 
 
 **Links:**
-* Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* Course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
 * CodePen #6:  [Returning vs mutating](https://codepen.io/webdevholland/pen/pozdEbJ?editors=0010) - Instructions in lines 7, 12 & 18 in JS editor of Pen to see in action.
 
 
@@ -143,7 +137,7 @@
 * I hope I can function today (no pun intended), haven't gotten much sleep ZZZzzzz
 
 **Links:**
-* Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* Course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
 * CodePen #3:  [Working with Arrays](https://codepen.io/webdevholland/pen/yLBzpmz?editors=0010) - Instructions in lines 4, 6, 13, 19 in JS editor of Pen to see in action.
 * CodePen #4:  [Making decisions in our code](https://codepen.io/webdevholland/pen/ExYwEQK?editors=0010) - Instructions in lines 1, 11, 15, 24, 28, 37 in JS editor of Pen to see in action.
 * CodePen #5:  [Higher-order function](https://codepen.io/webdevholland/pen/zYOEaOa?editors=0010) - Instructions in lines 13 - 15 in JS editor of Pen to see in action.
@@ -166,7 +160,7 @@
 * Happy to be using CodePen.  Later on, would love to experiment with others' Pens or have fun with CodePen Challenges.
 
 **Links:**
-* Course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
+* Course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
 * Screen shot:  [Played with JS in console of Chrome](https://drive.google.com/open?id=1JsvwvYGR34TGex3mpJhUefDklJ9PUf1d)
 * CodePen #1:  [Function tests](https://codepen.io/webdevholland/pen/GRKMRKM) - See instructions in lines 5, 6 & 14 in JS editor of Pen to activate.
 * CodePen #2:  [Object example](https://codepen.io/webdevholland/pen/PoYJoey?editors=0010) - See instruction in line 5 in JS editor of Pen to activate.
