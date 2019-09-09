@@ -1,32 +1,32 @@
 # 100 Days Of Code - Log
 
-### Days 7 & 8: September 8, 2019*
+### Days 7 & 8: September 8, 2019* - PRELIMINARY ENTRY
 
 ***Background**:  Meant to do Day 7 last night, but didn't which was why it got combined with Day 8 today.
 
-***In my README.md as well as in the Rules & FAQ sections of this repo, I can eventually explain 'how' & 'why' I might be modifying the rules to better suit my lifestyle.  (I don't want to get bogged down by rules.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.)***
+***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
 
-**Today's Summary Progress**:  Continued from yesterday & finished "Scope & Context (Part 1)" in Brad Schiff's JavaScript course (see Links for the day).  Wrapped up on Scope concepts.  (Part 2 of lesson will be on Context.)
+**Today's Summary Progress**:  Watched "Scope & Context (Part 2)" in Brad Schiff's JavaScript course (see Links for the day).
 
 **Quick Notes**:  
-* Possible to modify or mutate variable in global scope from within local scope.
-* "Scope moves in one direction.  It is a one-way street." (starting from within the inside and then going out.)
-* Declare variable = create variable.
-* 'let' didn't exist until about 3 or 4 years ago.  If looking at someone else's older code, may see 'var' instead of 'let'.
-* 'let' uses block scope... code looks for nearest enclosing block as defined by curly brackets '{ }'.
-* 'var' uses function scope... only cares about curly brackets '{ }' of a function.
-* Block scope is what most developers use & are familiar with esp. in other programming languages.  Block scope leads to less problems & confusion.
-* Recommended to never use 'var'.
-* If code isn't working, might want to check your scope & make sure variables are pointing towards what you think they should be pointing towards.  Can always use console.log to check value/result.
-* Refer to CodePen #9 (see Links for the day).
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* Refer to CodePen #10 (see Links for the day).
 
 **Thoughts:**
-* Helped to pause & rewind video as often as I needed not only to work on CodePen #9, but to take notes too!
-* Connected with & understood material better when I took notes (was probably the case as well when I was in college ages ago).
+* 
+* 
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/share/101qIyAkoedF9STQ==/)
-* CodePen #9:  [Scope & Context pt 1 - day 2](https://codepen.io/webdevholland/pen/PoYQqxq) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
+* CodePen #10:  [Scope & Context - day 2](https://codepen.io/webdevholland/pen/PoYQqxq) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
 
 
 
@@ -34,7 +34,7 @@
 
 ***Background**:  Went to bed last night as opposed to falling asleep on the couch & getting up in the wee hours of the morning.  So, instead of working on this overnight like I have been doing every day since I started #100DaysOfCode, I'm working on this now at a time when most start their day.  If I can come back to work on another round of this challenge later tonight, I'm counting it as Day 7.
 
-***In my README.md as well as in the Rules & FAQ sections of this repo, I can eventually explain 'how' & 'why' I might be modifying the rules to better suit my lifestyle.  (I don't want to get bogged down by rules.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.)***
+***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
 
 **Today's Summary Progress**:  Continued from yesterday & finished "Scope & Context (Part 1)" in Brad Schiff's JavaScript course (see Links for the day).  Wrapped up on Scope concepts.  (Part 2 of lesson will be on Context.)
 
