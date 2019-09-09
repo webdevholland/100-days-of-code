@@ -9,7 +9,8 @@
 **Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (it was scope in Part 1 video).
 
 **Quick Notes***:
-*Might add to or revise these Quick Notes on Day 9.
+***Might add to or revise these Quick Notes on Day 9.*
+
 * Context has to do with objects.
 * As with scope, confusion over context can lead to problems with code.
 * Even though may be too early at this stage to learn about scope & context, still good to keep these in mind as you're debugging your code.
