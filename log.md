@@ -6,7 +6,7 @@
 
 ***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
 
-**Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (scope was in Part 1 video).  Created CodePen #10 (see Links for the day).  Will continue working on this Pen next day or create another Pen demonstrating concept of context.
+**Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (scope was in Part 1 video).  Created CodePen #10 (see Links for the day).  Will continue working on this Pen next day or create another Pen further demonstrating concept of context.
 
 **Quick Notes***:
 * Context has to do with objects.
@@ -17,7 +17,7 @@
 
 **Thoughts:**
 * Tried something new:  watched video straight through without pausing while taking *handwritten* notes.  Then, later on, transferred notes to this repo's log.md.  Replayed relevant parts of video to fill in any gaps in log.md as well as recreate video's code in CodePen.  Think I like this new way better instead of watching video for first time while updating log.md and working on Pen.
-* Feel like my writing is improving (particularly editing skills) which will come in handy later once ready to start blogging.  Hmmm, maybe once #100DaysOfFitness done (see Links for the day), can move on to #100DaysOfBlogging?
+* Feels like my writing is improving (particularly editing skills) which will come in handy later once ready to start blogging.  Hmmm, maybe once #100DaysOfFitness done (see Links for the day), can move on to #100DaysOfBlogging?
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
