@@ -2,7 +2,7 @@
 
 ### Days 7 & 8: September 8, 2019*
 
-***Background**:  Meant to do Day 7 last night, but didn't which was why it got combined with Day 8 today.  Spent minimum of 2 hours on coding instead of just 1.
+***Background**:  Meant to do Day 7 last night, but didn't which was why it got combined with Day 8 today.  Spent ~2 hours on coding instead of just 1.
 
 ***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
 
