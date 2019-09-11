@@ -2,11 +2,11 @@
 
 ### Days 9 - 11: September 11, 2019* - PRELIMINARY ENTRY
 
-***Background**:  I started drafting this log entry at 1:15 am and now it's a little after 3:40 am!  I'll be tired, if not during work, definitely by the time I return home from work tonight.  I hope I can come back to this later.
+***Background**:  I started drafting this log entry at 1:15 am and now it's almost 4 am!  I'll be tired, if not during work, definitely by tonight.  I hope I can come back to this later.
 
 ***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
 
-**Today's Summary Progress**:  Will review videos "Scope & Context (Part 2)" & "Miscellaneous Info (Part 1)" from Brad Schiff's JavaScript course.  Will create CodePen #11 to further demonstrate context; CodePen #12 on anonymous & arrow functions from "Miscellaneous Info (Part 1)".  Already watched next video "Miscellaneous Info (Part 2)"; after that one is "Building To Do-App (Part 1)" which I'll watch.  Neither of those last two videos just mentioned to be covered in today's log entry.  See Links for the day.
+**Today's Summary Progress**:  Will review videos "Scope & Context (Part 2)" & "Miscellaneous Info (Part 1)" from Brad Schiff's JavaScript course.  Will create CodePen #11 to further demonstrate context; CodePen #12 on anonymous & arrow functions from "Miscellaneous Info (Part 1)".  Already watched next video "Miscellaneous Info (Part 2)"; after that one is "Building To Do-App (Part 1)" which I'll watch.  Neither of last two videos just mentioned covered in today's log entry.  See Links for the day.
 
 **Quick Notes**:
 * Context:  use of '.call' method.
@@ -16,10 +16,10 @@
 * 
 
 **Thoughts:**
-* Hard for me to find time to consistently watch new video from JS course everyday even if video is only 10-15 minutes long.
+* Hard for me to consistently watch new video from JS course everyday even if video is only 10-15 minutes long.
 * Time already spent trying to recreate code examples in CodePen (with comments!), updating this log.md and finally Tweeting about my progress.
 * Maybe I'm spending too much time documenting?  Isn't thorough documentation part of a programmer's job?  In blog article by Andy Lester called "10 Things You Should Have Learned With Your Software Engineering Degree—or at Coding Boot Camp—but Probably Didn’t", #6 was "Clear and effective written communication" (see Links for the day).
-* Will continue to watch new videos from JS course straight through, without pausing, while writing some quick notes in my little journal (which I later refer to when updating my log.md).
+* Will continue to watch JS course videos straight through, without pausing, while writing some quick notes in my little journal (which is later referred to when updating log.md).
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
