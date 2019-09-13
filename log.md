@@ -1,8 +1,10 @@
 # 100 Days Of Code - Log
 
-### Days 9 - 12: September 12, 2019  (worked overnight into AM) - PRELIMINARY ENTRY
+### Days 9 - 12: September 12, 2019  (worked overnight into AM) - PRELIMINARY ENTRY*
 
-***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
+***Background**:  3:42 am.  Couldn't take it anymore.  Too tired to create CodePens #11 & #12 (see Links for the day).  Went to bed!
+
+***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as in the Rules and FAQ sections of this repo.***
 
 **Today's Summary Progress**:  Reviewed videos "Scope & Context (Part 2)" & "Miscellaneous Info (Part 1)" from Brad Schiff's JavaScript course.  Created CodePen #11 to show additional concepts related to context as well as CodePen #12 on anonymous & arrow functions from "Miscellaneous Info (Part 1)".  Watched next three videos after  "Miscellaneous Info (Part 1)", but didn't cover any of them in this log entry.  See Links for the day.
 
@@ -19,8 +21,8 @@
 * 
 
 **Thoughts:**
-* Time-consuming process to try to recreate code examples in CodePen (with comments!), updating this log.md and finally Tweeting about my progress.
-* Maybe too much time spent documenting?  Isn't documentation part of programmer's job?  In blog article by Andy Lester called "10 Things You Should Have Learned With Your Software Engineering Degree—or at Coding Boot Camp—but Probably Didn’t", item #6 was "Clear and effective written communication" (see Links for the day).
+* Time-consuming process to try to recreate code examples in CodePen (with comments!), update this log.md and finally Tweet about my progress.
+* Maybe too much time spent documenting?  But isn't documentation part of programmer's job?  In blog article by Andy Lester called "10 Things You Should Have Learned With Your Software Engineering Degree—or at Coding Boot Camp—but Probably Didn’t", item #6 was "Clear and effective written communication" (see Links for the day).
 * Started listening to JS course videos while driving to/from work; listened straight without pausing.
 * Would listen to same video twice on same day to make up for not pausing video, missing out on visuals and not taking any notes.
 
@@ -36,7 +38,7 @@
 
 ***Background**:  Meant to do Day 7 last night, but didn't which was why it got combined with Day 8 today.  Spent ~2 hours on coding instead of just 1.
 
-***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
+***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as in the Rules and FAQ sections of this repo.***
 
 **Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (scope was in Part 1 video).  Created CodePen #10 (see Links for the day).  Tomorrow, will continue working on this Pen or create another Pen to further demonstrate concept of context.  Also watched next video "Miscellaneous Info (Part 1)" after "Scope & Context (Part 2)" video but today's log entry only about context.
 
@@ -62,7 +64,7 @@
 
 ***Background**:  Went to bed last night as opposed to falling asleep on the couch & getting up in the wee hours of the morning.  So, instead of working on this overnight like I have been doing every day since I started #100DaysOfCode, I'm working on this now at a time when most start their day.  If I can come back to work on another round of this challenge later tonight, I'm counting it as Day 7.
 
-***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as the Rules and FAQ sections of this repo.***
+***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as in the Rules and FAQ sections of this repo.***
 
 **Today's Summary Progress**:  Continued from yesterday & finished "Scope & Context (Part 1)" in Brad Schiff's JavaScript course (see Links for the day).  Wrapped up on Scope concepts.  (Part 2 of lesson will be on Context.)
 
