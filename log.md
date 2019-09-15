@@ -1,8 +1,6 @@
 # 100 Days Of Code - Log
 
-### Days 9 - 12: September 12, 2019  (worked overnight into AM) - PRELIMINARY ENTRY*
-
-***Background**:  3:42 am.  Couldn't take it anymore.  Too tired to create CodePens #11 & #12 (see Links for the day).  Went to bed!
+### Days 9 - 15: September 15, 2019 - PRELIMINARY ENTRY*
 
 ***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as in the Rules and FAQ sections of this repo.***
 
@@ -28,7 +26,7 @@
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
-* CodePen #11:  [Scope & Context pt 2 - day 2](https://codepen.io/webdevholland/pen/bGbLORx) - To be forked.  To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
+* CodePen #11:  [Scope & Context pt 2 - day 2](https://codepen.io/webdevholland/pen/KKPBZJohttps://codepen.io/webdevholland/pen/KKPBZJo) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
 * CodePen #12:  [Misc Info pt 1](https://codepen.io/collection/DgGLpJ/) - To be created.  To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
 * Blog article:  [10 Things You Should Have Learned With Your Software Engineering Degree—or at Coding Boot Camp—but Probably Didn’t](https://blog.newrelic.com/culture/10-secrets-learned-software-engineering-degree-probably-didnt/)
 
