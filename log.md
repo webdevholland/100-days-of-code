@@ -1,20 +1,18 @@
 # 100 Days Of Code - Log
 
-### Days 9 - 15: September 15, 2019 - PRELIMINARY ENTRY*
+### Days 9 - 15: September 16, 2019 (worked overnight into AM)* - PRELIMINARY ENTRY
 
-***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as in the Rules and FAQ sections of this repo.***
+***Background**:  2:16 am.  Stretched out on couch in living room with laptop.  Lofi hip-hop from Chilled Cow softly playing (see Links for the day).
 
-**Today's Summary Progress**:  Reviewed videos "Scope & Context (Part 2)" & "Miscellaneous Info (Part 1)" from Brad Schiff's JavaScript course.  Created CodePen #11 to show additional concepts related to context as well as CodePen #12 on anonymous & arrow functions from "Miscellaneous Info (Part 1)".  Watched next three videos after  "Miscellaneous Info (Part 1)", but didn't cover any of them in this log entry.  See Links for the day.
+***I know I haven't been following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll talk about this later in the README.md as well as in the Rules and FAQ sections of this repo.***
+
+**Today's Summary Progress**:  Reviewed video "Scope & Context (Part 2)" from Brad Schiff's JavaScript course.  Created CodePen #11 to show how '.call' method is used as part of lesson on context.  Already watched next video "Miscellaneous Info (Part 1)" so moved on to next six videos, but didn't cover any of them in this log entry.  See Links for the day.
 
 **Quick Notes**:
-* Reviewed context from "Scope & Context (Part 2)" video through CodePen #11
-* Reviewed anonymous & arrow functions from "Miscellaneous Info (Part 1)" video through CodePen #12
+* Context:  '.call' method 
 * Watched "Miscellaneous Info (Part 2)" video
 * Watched "Building To-Do App (Part 1)" video
 * Watched "Building To-Do App (Part 2)" video
-* Context:  use of '.call' method.
-* Anonymous function:  function with no name; blank between parentheses in 'function ( ) { }'
-* Arrow function
 * 
 * 
 
@@ -27,16 +25,15 @@
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
 * CodePen #11:  [Scope & Context pt 2 - day 2](https://codepen.io/webdevholland/pen/KKPBZJohttps://codepen.io/webdevholland/pen/KKPBZJo) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
-* CodePen #12:  [Misc Info pt 1](https://codepen.io/collection/DgGLpJ/) - To be created.  To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
 * Blog article:  [10 Things You Should Have Learned With Your Software Engineering Degree—or at Coding Boot Camp—but Probably Didn’t](https://blog.newrelic.com/culture/10-secrets-learned-software-engineering-degree-probably-didnt/)
 
 
 
 ### Days 7 & 8: September 8, 2019*
 
-***Background**:  Meant to do Day 7 last night, but didn't which was why it got combined with Day 8 today.  Spent ~2 hours on coding instead of just 1.
+***Background**:  Meant to do Day 7 last night, but didn't which was why it got combined with Day 8 today.  Spent ~2 hours learning to code as well as documenting instead of just 1.
 
-***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as in the Rules and FAQ sections of this repo.***
+***I know I haven't been following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll talk about this later in the README.md as well as in the Rules and FAQ sections of this repo.***
 
 **Today's Summary Progress**:  Watched "Scope & Context (Part 2)" video in Brad Schiff's JavaScript course (see Links for the day).  Context covered in Part 2 video (scope was in Part 1 video).  Created CodePen #10 (see Links for the day).  Tomorrow, will continue working on this Pen or create another Pen to further demonstrate concept of context.  Also watched next video "Miscellaneous Info (Part 1)" after "Scope & Context (Part 2)" video but today's log entry only about context.
 
@@ -44,8 +41,8 @@
 * Context has to do with objects.
 * As with scope, confusion over context can lead to problems with code.
 * Even though may be too early at this stage to learn about scope & context, still good to keep these in mind as you're debugging your code.
-* Keyword 'this' is introduced --> allows flexibility.
-* 'this' points to function that is executing.
+* Keyword 'this' is introduced --> is flexible esp. when used with '.call' method (to be covered in next log entry).
+* 'this' points to object executing function.
 
 **Thoughts:**
 * Tried something new:  watched video straight through without pausing while taking *handwritten* notes.  Then, later on, transferred notes to this repo's log.md.  Replayed relevant parts of video to fill in any gaps in log.md as well as recreate video's code in CodePen.  Think I like this new way better instead of watching video for first time while updating log.md and working on Pen.
@@ -62,7 +59,7 @@
 
 ***Background**:  Went to bed last night as opposed to falling asleep on the couch & getting up in the wee hours of the morning.  So, instead of working on this overnight like I have been doing every day since I started #100DaysOfCode, I'm working on this now at a time when most start their day.  If I can come back to work on another round of this challenge later tonight, I'm counting it as Day 7.
 
-***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll explain this later in the README.md as well as in the Rules and FAQ sections of this repo.***
+***I know I'm not following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them a bit to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll talk about this later in the README.md as well as in the Rules and FAQ sections of this repo.***
 
 **Today's Summary Progress**:  Continued from yesterday & finished "Scope & Context (Part 1)" in Brad Schiff's JavaScript course (see Links for the day).  Wrapped up on Scope concepts.  (Part 2 of lesson will be on Context.)
 
