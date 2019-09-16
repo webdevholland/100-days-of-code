@@ -25,7 +25,7 @@
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
-* CodePen #11:  [Scope & Context pt 2 - day 2](https://codepen.io/webdevholland/pen/KKPBZJo) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
+* CodePen #11:  [Scope & Context pt 2 - day 2](https://codepen.io/webdevholland/pen/KKPBZJo?editors=0010) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
 * Blog article:  [10 Things You Should Have Learned With Your Software Engineering Degree—or at Coding Boot Camp—but Probably Didn’t](https://blog.newrelic.com/culture/10-secrets-learned-software-engineering-degree-probably-didnt/)
 * Lofi hip-hop background music:  [ChilledCow channel on YouTube](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow)
 
