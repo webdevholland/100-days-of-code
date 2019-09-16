@@ -2,7 +2,7 @@
 
 ### Days 9 - 15: September 16, 2019 (worked overnight into AM)*
 
-***Background**:  2:16 am.  Stretched out on couch in living room with laptop.  Lofi hip-hop from Chilled Cow softly playing (see Links for the day).  Dozed off in middle of working on this.  Forced myself to wrap up already at 5:30 am.
+***Background**:  2:16 am.  Stretched out on couch in living room with laptop.  Lofi hip-hop from ChilledCow softly playing (see Links for the day).  Dozed off in middle of working on this.  Forced myself to wrap up already at 5:30 am.
 
 ***I know I haven't been following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them to better suit my lifestyle.  I think it's more important that I consistently learn every day even if I don't get a chance to update this log.md or Tweet my progress (I have been handwriting notes in a little journal in the meantime).  I'll talk more about this later in the README.md as well as in the Rules and FAQ sections of this repo.***
 
@@ -25,8 +25,9 @@
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
-* CodePen #11:  [Scope & Context pt 2 - day 2](https://codepen.io/webdevholland/pen/KKPBZJohttps://codepen.io/webdevholland/pen/KKPBZJo) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
+* CodePen #11:  [Scope & Context pt 2 - day 2](https://codepen.io/webdevholland/pen/KKPBZJo) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
 * Blog article:  [10 Things You Should Have Learned With Your Software Engineering Degree—or at Coding Boot Camp—but Probably Didn’t](https://blog.newrelic.com/culture/10-secrets-learned-software-engineering-degree-probably-didnt/)
+* Lofi hip-hop background music:  [ChilledCow channel on YouTube](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow)
 
 
 
