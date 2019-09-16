@@ -1,26 +1,27 @@
 # 100 Days Of Code - Log
 
-### Days 9 - 15: September 16, 2019 (worked overnight into AM)* - PRELIMINARY ENTRY
+### Days 9 - 15: September 16, 2019 (worked overnight into AM)*
 
-***Background**:  2:16 am.  Stretched out on couch in living room with laptop.  Lofi hip-hop from Chilled Cow softly playing (see Links for the day).
+***Background**:  2:16 am.  Stretched out on couch in living room with laptop.  Lofi hip-hop from Chilled Cow softly playing (see Links for the day).  Dozed off in middle of working on this.  Forced myself to wrap up already at 5:30 am.
 
-***I know I haven't been following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them to better suit my lifestyle.  I think it's more important that I consistently learn & build every day regardless of what day or time it is.  I'll talk about this later in the README.md as well as in the Rules and FAQ sections of this repo.***
+***I know I haven't been following the rules of this challenge to a T.  I don't want to get bogged down by rules so I'm modifying them to better suit my lifestyle.  I think it's more important that I consistently learn every day even if I don't get a chance to update this log.md or Tweet my progress (I have been handwriting notes in a little journal in the meantime).  I'll talk more about this later in the README.md as well as in the Rules and FAQ sections of this repo.***
 
 **Today's Summary Progress**:  Reviewed video "Scope & Context (Part 2)" from Brad Schiff's JavaScript course.  Created CodePen #11 to show how '.call' method is used as part of lesson on context.  Already watched next video "Miscellaneous Info (Part 1)" so moved on to next six videos, but didn't cover any of them in this log entry.  See Links for the day.
 
 **Quick Notes**:
-* Context:  '.call' method 
-* Watched "Miscellaneous Info (Part 2)" video
-* Watched "Building To-Do App (Part 1)" video
-* Watched "Building To-Do App (Part 2)" video
-* 
-* 
+* '.call' method is attached to a function to allow 'this' keyword to point to an object which will use the function.
+* To see how '.call' method works, go to CodePen #11 in Links for the day.
+* In Section 2 of JS course, "The 10 Days of JavaScript: The Language Itself", watched final three section videos after "Miscellaneous Info (Part 1)" :  "Miscellaneous Info (Part 2)"; "Building To-Do App (Part 1)"; and "Building To-Do App (Part 2)".
+* Misc info vids covered topics like anonymous functions, arrow functions and function hoisting.
+* In Section 3 of JS course, "Server Basics", watched first three section videos:  "Why Do We Need a Server?"; "Node.js Intro"; and "Text Editor Software".
 
-**Thoughts:**
+**Thoughts & Tactics:**
 * Time-consuming process to try to recreate code examples in CodePen (with comments!), update this log.md and finally Tweet about my progress.
 * Maybe too much time spent documenting?  But isn't documentation part of programmer's job?  In blog article by Andy Lester called "10 Things You Should Have Learned With Your Software Engineering Degree—or at Coding Boot Camp—but Probably Didn’t", item #6 was "Clear and effective written communication" (see Links for the day).
-* Started listening to JS course videos while driving to/from work; listened straight without pausing.
-* Would listen to same video twice on same day to make up for not pausing video, missing out on visuals and not taking any notes.
+* Since JS course videos can be played from phone, started listening to videos while driving to/from work; listened straight through without pausing.
+* Also played videos at other times like during lunch break, before going to sleep or after getting up in the morning.
+* Would play same video at least twice on same day.  Repetition helpful since might not be pausing video to take notes or might be missing out on visuals.
+
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
@@ -44,7 +45,7 @@
 * Keyword 'this' is introduced --> is flexible esp. when used with '.call' method (to be covered in next log entry).
 * 'this' points to object executing function.
 
-**Thoughts:**
+**Thoughts & Tactics:**
 * Tried something new:  watched video straight through without pausing while taking *handwritten* notes.  Then, later on, transferred notes to this repo's log.md.  Replayed relevant parts of video to fill in any gaps in log.md as well as recreate video's code in CodePen.  Think I like this new way better instead of watching video for first time while updating log.md and working on Pen.
 * Feels like my writing is improving (particularly editing skills) which will come in handy later once ready to start blogging.  Hmmm, maybe once #100DaysOfFitness done (see Links for the day), can move on to #100DaysOfBlogging?
 
@@ -75,7 +76,7 @@
 * If code isn't working, might want to check your scope & make sure variables are pointing towards what you think they should be pointing towards.  Can always use console.log to check value/result.
 * Refer to CodePen #9 (see Links for the day).
 
-**Thoughts:**
+**Thoughts & Tactics:**
 * Helped to pause & rewind video as often as I needed not only to work on CodePen #9, but to take notes too!
 * Connected with & understood material better when I took notes (was probably the case as well when I was in college ages ago).
 
@@ -97,7 +98,7 @@
 * Same label name can be used for variables at different levels of scope.
 * Refer to CodePen #8 (see Links for the day).
 
-**Thoughts:**
+**Thoughts & Tactics:**
 * Feel like things are starting to make more sense to me (i.e. global vs local scope).  Various levels of scope makes me think of a staircase.
 * TGIF!!!  Starting tomorrow, hope to get back to a better schedule where I'm actually recording what I do ON THE SAME DAY I begin an activity!
 
@@ -119,7 +120,7 @@
 * '.map()' & '.filter()' can become incredibly powerful because they can be chained together as in this example:  let babyDogNames = pets.filter(onlyDogs).filter(onlyBabies).map(nameOnly).
 * More examples to come of chaining of data types; this isn't limited to arrays only.
 
-**Thoughts:**
+**Thoughts & Tactics:**
 * Bookmark feature available with video is very helpful... knew exactly where to pick right up from yesterday.
 * Found myself replaying video at certain points because I nodded off... not because material is boring, but because it's 4 am... again...
 * Caught in vicious cycle of working overnight... hope to break free of this pattern this coming weekend (just two more days!) 
@@ -139,7 +140,7 @@
 * In Pen #6 (see Links for the day), '.push' not only mutated array, but also returned number of items/objects in array (in this case, four animals in 'pets' array).
 * Recall '.map' & '.filter' methods first mentioned in last video watched. These two methods extremely useful even though they only return number of items in array, not mutate array.
 
-**Thoughts:**
+**Thoughts & Tactics:**
 * Will include pic of Pen #6 when I tweet today's progress at [@webdevholland](https://twitter.com/webdevholland).
 * Will also tweet link to Collection of pens I've created so far.
 * Soooooo glad I'll be working my day job from home (starts in several hours).
