@@ -3,7 +3,7 @@
 *Updated Nov 4, 2019: - DRAFT<br>*
 After completing the [#21DayCkChallenge](https://career-karma.gitbook.io/learn/21dayckchallenge/21dayckchallenge) with [Career Karma](https://career-karma.gitbook.io/learn/), I decided to take the #100DaysOfCode challenge as the next adventure in my coding journey.  My main focus as I work through #100DaysOfCode will be Brad Schiff's Udemy course, ["Learn JavaScript: Full-Stack from Scratch"](https://www.udemy.com/share/101qIy/).  I'll also post about other Udemy courses I wishlisted as well as any updates related to Career Karma.
 
-***I'm unfortunately not able to following the rules of this challenge.  I don't want to get bogged down by rules so I'm modifying them to better suit my lifestyle.  I think it's more important that I consistently learn every day even if I don't get a chance to update this log.md or Tweet my progress (I have been handwriting notes in a little journal in the meantime).  I'll talk more about this later in the README.md as well as in the Rules and FAQ sections of this repo.***
+***I'm unfortunately not able to follow the [rules](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#if-youve-decided-to-join) of this challenge because of .  I don't want to get bogged down by rules, so I'm modifying them to better suit my lifestyle.  I think it's more important that I consistently learn every day even if I don't get a chance to update this log.md or Tweet my progress (I have been handwriting notes in a little journal in the meantime).  I'll talk more about this later in the README.md as well as in the Rules and FAQ sections of this repo.***
 
 
 
