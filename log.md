@@ -2,31 +2,35 @@
 
 ### Days 16 - 65: November 5, 2019 (worked overnight into AM) - DRAFT*
 
-***Background**:  Started ~11:35 pm on Nov 4th.  Worked in bed with laptop.  TV series "Victoria" played in background.
+***Background**:  Started ~11:35 pm on Nov 4th.  Worked in bed with laptop.  TV series "Victoria" played in background.  Called it quits 2:45 am (hubby had turned off TV before then... wish he hadn't, but I know... it's late...)
 
 ***I'm not a model challenge-taker for #100DaysOfCode - you can read more about that in my [README.md](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#ive-joined-the-100daysofcode-challenge---sep-1-2019).***
 
-**Overall Progress**:  See Links for the day.
+**Overall Progress**:  Mainly *listened* to videos from Brad Schiff's JavaScript course in Udemy app while driving to/from work.  usually listen to vids two or more times.  Thrilled that another member in Career Karma (coding app) messaged me about Nucamp, an affordable, part-time coding bootcamp that I'm looking forward to enrolling in ~spring 2020.  Continued meeting weekly with Career Karma coding group "Women that code".  started job as data analyst in late oct.  want to look more into data visualization as well as continue building on front-end web dev skills.  See Links for the day.
 
-**Notes**:
+**Highlights & Lowpoints**:
+* In Schiff's JS course, finished 3rd & 4th sections on "Server Basics" & "Database Basics".
+* ~80-85% through 5th section on "Starting Our Complex App (App #2)" in JS course.
+* spent more time *listening* to js course vs actually practicing coding.
 * .
-* .
-* .
-* .
-* .
+* this week:  registered for in-person course on creating better visuals such as in slides (got waitlisted on course for data viz in tableau).
+* Excited about taking Nucamp course "Web Development Fundamentals" in the new year.
+* July 2020:  registered for data course at work
 
 **Thoughts & Tactics:**
 * .
 * (see Links for the day).
+* set aside savings in case i decide to take longer nucamp course "front-end web + mobile development".
 * .
-* .
-* .
+* goal-setting w/ CK coding group "Women that code".
+* try to make greater use of lunch hours at work as well as time after dinner to create more code pens to go along w/ js course.
 
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
-* CodePen #12:  [Miscellaneous Info pt 1](https://codepen.io/webdevholland/pen/ ) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
-* :  []()
+* CodePen #12:  [Miscellaneous Info pt 1](https://codepen.io/webdevholland/pen/... ) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
+* Coding app:  [CareerKarma](https://careerkarma.com/?p=8)
+* Coding bootcamp:  [Nucamp](https://www.nucamp.co/home)
 * TV series played in background:  [Victoria](https://www.pbs.org/wgbh/masterpiece/shows/victoria/)
 
 
