@@ -4,13 +4,13 @@
 
 ****Background**:  I'm not a role model for the #100DaysOfCode challenge - you can read more about that in my [README.md](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#ive-joined-the-100daysofcode-challenge---sep-1-2019).*
 
-**Overall Update**:  Mainly *listened* to videos from Brad Schiff's JavaScript course in Udemy app while driving to/from work.  usually listen to vids two or more times.  Thrilled that another member in Career Karma (coding app) messaged me about Nucamp, an affordable, part-time coding bootcamp that I'm looking forward to enrolling in ~spring 2020.  Continued meeting weekly with Career Karma coding group "Women that code".  started job as data analyst in late oct.  want to look more into data visualization as well as continue building on front-end web dev skills.  See Links for the day.
+**Overall Update**:  Mainly *listened* to videos from Brad Schiff's JavaScript course in Udemy app while driving to/from work.  Usually listened to vids a couple times or more.  Supplemented JS learning using "Grasshopper" coding app a few times.  Another coding app, "Career Karma", has proven to be great resource.  Started job as data analyst in late October.  See Links for this log entry.
 
 **Highlights & Low Points**:
 * In Schiff's JS course, finished 3rd & 4th sections on "Server Basics" & "Database Basics".
 * ~80-85% through 5th section on "Starting Our Complex App (App #2)" in JS course.
 * spent more time *listening* to js course vs actually practicing coding.
-* .
+* want to look more into data visualization as well as continue building on front-end web dev skills.
 * this week:  registered for in-person course on creating better visuals such as in slides (got waitlisted on course for data viz in tableau).
 * Excited about taking Nucamp course "Web Development Fundamentals" in the new year.
 * July 2020:  registered for data course at work
@@ -27,7 +27,7 @@
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
 * CodePen #12:  [Miscellaneous Info pt 1](https://codepen.io/webdevholland/pen/... ) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
-* Coding app:  [CareerKarma](https://careerkarma.com/?p=8)
+* Coding apps:  [Grasshopper](https://grasshopper.codes/) & [CareerKarma](https://careerkarma.com/?p=8)
 * Coding bootcamp:  [Nucamp](https://www.nucamp.co/home)
 
 
