@@ -2,11 +2,11 @@
 
 ### Days 16 - 65: September 16 - November 5, 2019 - DRAFT*
 
-***Background**:  I'm not a model challenge-taker for #100DaysOfCode - you can read more about that in my [README.md](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#ive-joined-the-100daysofcode-challenge---sep-1-2019).*
+****Background**:  I'm not a model challenge-taker for #100DaysOfCode - you can read more about that in my [README.md](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#ive-joined-the-100daysofcode-challenge---sep-1-2019).*
 
 **Overall Update**:  Mainly *listened* to videos from Brad Schiff's JavaScript course in Udemy app while driving to/from work.  usually listen to vids two or more times.  Thrilled that another member in Career Karma (coding app) messaged me about Nucamp, an affordable, part-time coding bootcamp that I'm looking forward to enrolling in ~spring 2020.  Continued meeting weekly with Career Karma coding group "Women that code".  started job as data analyst in late oct.  want to look more into data visualization as well as continue building on front-end web dev skills.  See Links for the day.
 
-**Additional Details**:
+**Highlights & Low Points**:
 * In Schiff's JS course, finished 3rd & 4th sections on "Server Basics" & "Database Basics".
 * ~80-85% through 5th section on "Starting Our Complex App (App #2)" in JS course.
 * spent more time *listening* to js course vs actually practicing coding.
