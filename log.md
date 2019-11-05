@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+### Days 16 - 65: November 5, 2019 (worked overnight into AM) - DRAFT*
+
+***Background**:  Started ~11:35 pm on Nov 4th.  Worked in bed with laptop.  TV series "Victoria" played in background.
+
+***I'm not a model challenge-taker for #100DaysOfCode - you can read more about that in my [README.md]().***
+
+**Today's Summary Progress**:  Reviewed video "Scope & Context (Part 2)" from Brad Schiff's JavaScript course.  Created CodePen #11 to show how '.call' method is used as part of lesson on context.  Already watched next video "Miscellaneous Info (Part 1)" so moved on to next six videos, but didn't cover any of them in this log entry.  See Links for the day.
+
+**Quick Notes**:
+* '.call' method is attached to a function to allow 'this' keyword to point to an object which will use the function.
+* To see how '.call' method works, go to CodePen #11 in Links for the day.
+* In Section 2 of JS course, "The 10 Days of JavaScript: The Language Itself", watched final three section videos after "Miscellaneous Info (Part 1)" :  "Miscellaneous Info (Part 2)"; "Building To-Do App (Part 1)"; and "Building To-Do App (Part 2)".
+* Misc info vids covered topics like anonymous functions, arrow functions and function hoisting.
+* In Section 3 of JS course, "Server Basics", watched first three section videos:  "Why Do We Need a Server?"; "Node.js Intro"; and "Text Editor Software".
+
+**Thoughts & Tactics:**
+* Time-consuming process to try to recreate code examples in CodePen (with comments!), update this log.md and finally Tweet about my progress.
+* Maybe too much time spent documenting?  But isn't documentation part of programmer's job?  In blog article by Andy Lester called "10 Things You Should Have Learned With Your Software Engineering Degree—or at Coding Boot Camp—but Probably Didn’t", item #6 was "Clear and effective written communication" (see Links for the day).
+* Since JS course videos can be played from phone, started listening to videos while driving to/from work; listened straight through without pausing.
+* Also played videos at other times like during lunch break, before going to sleep or after getting up in the morning.
+* Would play same video at least twice on same day.  Repetition helpful since might not be pausing video to take notes or might be missing out on visuals.
+
+
+**Links:**
+* Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
+* CodePen #11:  [Scope & Context pt 2 - day 2](https://codepen.io/webdevholland/pen/KKPBZJo?editors=0010) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
+* Blog article:  [10 Things You Should Have Learned With Your Software Engineering Degree—or at Coding Boot Camp—but Probably Didn’t](https://blog.newrelic.com/culture/10-secrets-learned-software-engineering-degree-probably-didnt/)
+* Lofi hip-hop background music:  [ChilledCow channel on YouTube](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow)
+
+
+
 ### Days 9 - 15: September 16, 2019 (worked overnight into AM)*
 
 ***Background**:  2:16 am.  Stretched out on couch in living room with laptop.  Lofi hip-hop from ChilledCow softly playing (see Links for the day).  Dozed off in middle of working on this.  Forced myself to wrap up already around 5:30 am.
