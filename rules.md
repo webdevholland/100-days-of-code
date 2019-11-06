@@ -2,11 +2,11 @@
 
 **Note from [webdevholland](https://github.com/webdevholland):  I'm doing the #100DaysOfCode challenge differently than what's described below - see my [README.md](https://github.com/webdevholland/100-days-of-code#ive-joined-the-100daysofcode-challenge---sept-1-2019)*
 
-## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
-
 #### Start Date
 September 1, 2019 (back-to-school season, how apropos ;-) )
+
+## Main Commitment
+### *I will code for at least an hour every day for the next 100 days.*
 
 ## Additional Rules
 1. I will tweet about my progress every day using the hashtag #100DaysOfCode
