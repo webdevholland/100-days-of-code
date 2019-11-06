@@ -1,6 +1,6 @@
 # Rules of the 100 Days Of Code Challenge*
 
-**Note from [webdevholland](https://github.com/webdevholland):  I'm doing the #100DaysOfCode challenge differently than what's described below - see my [README.md](https://github.com/webdevholland/100-days-of-code#ive-joined-the-100daysofcode-challenge---sep-1-2019)*
+**Note from [webdevholland](https://github.com/webdevholland):  I'm doing the #100DaysOfCode challenge differently than what's described below - see my [README.md](https://github.com/webdevholland/100-days-of-code#ive-joined-the-100daysofcode-challenge---sept-1-2019)*
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
