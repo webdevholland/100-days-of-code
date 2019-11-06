@@ -1,18 +1,21 @@
 # 100 Days Of Code - Log
 
-### Days 16 - 65: September 16 - November 5, 2019 - DRAFT*
+### Days 16 - 67: September 16 - November 6, 2019 - DRAFT*
 
-****Background**:  I'm not a role model for the #100DaysOfCode challenge - you can read more about that in my [README.md](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#ive-joined-the-100daysofcode-challenge---sep-1-2019).*
+****Background**:  I'm not the best example to follow when it comes to taking the #100DaysOfCode challenge - you can read more about that in my [README.md](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#ive-joined-the-100daysofcode-challenge---sep-1-2019).*
 
-**Overall Update**:  Mainly *listened* to videos from Brad Schiff's JavaScript course in Udemy app while driving to/from work.  Supplemented JS learning using "Grasshopper" coding app a few times.  Another coding app, "Career Karma", has proven to be great resource.  Transitioned from being financial analyst to data analyst in late October.  See Links for this log entry.
+**Overall Update**:  Mainly *listened* to videos from Brad Schiff's JavaScript course in the Udemy app while driving to & from work.  Supplemented JS learning using Grasshopper coding app a few times.  Another coding app, Career Karma, has proven to be great resource.  Planning on enrolling in Nucamp coding bootcamp in 2020.  Transitioned from being financial analyst to data analyst in late October.  See Links for this log entry.
 
 **Highlights & Low Points**:
 * In Schiff's JS course, finished sections on "Server Basics" & "Database Basics".
 * Also went through ~80-85% of section on "Starting Our Complex App (App #2)" in JS course.
-* Usually listened to JS course videos a couple of times or more.
-* Created CodePen on Anonymous & Arrow Functions.
+* Listened to JS course videos a couple of times or more.  Concepts were harder to grasp, at times, when learning by audio only.
+* Created CodePen on anonymous & arrow functions to go along w/ JS course vid on those topics.
 * Spent more time *listening* to JS course videos.  Very little time spent doing hands-on coding practice.  Haven't reviewed course's example CodePens yet.
-* "Grasshopper" coding app great for on-the-go practice in JS, but ended up removing app from phone.
+* Grasshopper coding app great for on-the-go practice in JS, but ended up removing app from phone.  Wasn't using app often.
+* 
+* Thrilled to learn about Nucamp coding bootcamp from member within Career Karma coding app.
+* Looking forward to taking Web Development Fundamentals course with Nucamp, hopefully around late winter/early spring 2020.
 * want to look more into data visualization as well as continue building on front-end web dev skills.
 * this week:  registered for in-person course on creating better visuals such as in slides (got waitlisted on course for data viz in tableau).
 * Excited about taking Nucamp course "Web Development Fundamentals" in the new year.
