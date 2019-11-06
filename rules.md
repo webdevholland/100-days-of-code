@@ -1,6 +1,6 @@
 # Rules of the 100 Days Of Code Challenge*
 
-**Note from [webdevholland](https://github.com/webdevholland):  I'm doing the #100DaysOfCode challenge differently than what's described below - see my [README.md](https://github.com/webdevholland/100-days-of-code#ive-joined-the-100daysofcode-challenge---sept-1-2019)<br>*
+**Note from [webdevholland](https://github.com/webdevholland):  I'm doing the #100DaysOfCode challenge differently - see my [README.md](https://github.com/webdevholland/100-days-of-code#ive-joined-the-100daysofcode-challenge---sept-1-2019)<br>*
 
 ## Start Date
 September 1, 2019 (back-to-school season, how apropos ;-) )
