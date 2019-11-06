@@ -1,6 +1,6 @@
-# I've joined the #100DaysOfCode Challenge - September 1, 2019
+# I've joined the #100DaysOfCode Challenge - Sept 1, 2019
 
-*Updated November 4, 2019:<br>*
+*Updated Nov 6, 2019:<br>*
 After completing the [#21DayCkChallenge](https://career-karma.gitbook.io/learn/21dayckchallenge/21dayckchallenge) with [Career Karma](https://careerkarma.com/?p=1), I decided to take the #100DaysOfCode challenge as the next adventure on my coding journey.  My main focus as I work through #100DaysOfCode will be Brad Schiff's course, ["Learn JavaScript: Full-Stack from Scratch"](https://www.udemy.com/share/101qIy/) on Udemy.  I'll also post about updates related to Career Karma & possibly other Udemy courses I wishlisted ;-)
 
 ***I'm unfortunately not able to follow the [rules](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#if-youve-decided-to-join) of this challenge because of my busy schedule.  I'm doing this challenge the best that I can by handwriting notes in a little journal until I get a chance to update [my GitHub log](log.md) or Tweet my progress [@webdevholland](https://twitter.com/webdevholland).***
