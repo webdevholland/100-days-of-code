@@ -1,4 +1,6 @@
-# Rules of the 100 Days Of Code Challenge
+# Rules of the 100 Days Of Code Challenge*
+
+**I'm doing the #100DaysOfCode challenge differently than what's described below - see my [README.md](https://github.com/webdevholland/100-days-of-code#ive-joined-the-100daysofcode-challenge---sep-1-2019)*
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
@@ -11,9 +13,7 @@ September 1, 2019 (back-to-school season, how apropos ;-) )
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update my [Log](log.md) with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))*
-
-*Note by [webdevholland](https://github.com/webdevholland): I will be building apps in [Brad Schiff's JavaScript course on Udemy](https://www.udemy.com/share/101qIyAkoedF9STQ==/).
+5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
