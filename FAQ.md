@@ -1,6 +1,6 @@
 ## FAQ*:
 
-* *I'm doing the #100DaysOfCode challenge differently than what's described below - see my [README.md](https://github.com/webdevholland/100-days-of-code#ive-joined-the-100daysofcode-challenge---sep-1-2019)*
+*I'm doing the #100DaysOfCode challenge differently than what's described below - see my [README.md](https://github.com/webdevholland/100-days-of-code#ive-joined-the-100daysofcode-challenge---sep-1-2019)*
   
   **Q:** How do I get in touch with the people who are also doing this challenge?  
   **A:** The best way to connect is to use the list of resources available on the official 100DaysOfCode site:
