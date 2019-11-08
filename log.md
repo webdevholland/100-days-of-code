@@ -21,13 +21,10 @@
 * Registered for a Data Navigation course at my organization... scheduled for July 2020 (earlier dates were already filled up!)
 
 **Thoughts & Tactics:**
-* 
-* Need to figure out how to motivate myself to .
-* (see Links for the day).
+* Need to go back to earlier section of JS course & build simple to-do app.
+* Need to figure out how to motivate myself to make better use of time on nights & weekends.
+* Has helped in past to have some sort of soothing music with nice scenery on TV while I'm trying to learn at home.
 * set aside savings in case i decide to take longer nucamp course "front-end web + mobile development".
-* .
-* goal-setting w/ CK coding group "Women that code".
-* try to make greater use of lunch hours at work as well as time after dinner to create more code pens to go along w/ js course.
 
 
 **Links:**
@@ -59,7 +56,6 @@
 * Since JS course videos can be played from phone, started listening to videos while driving to/from work; listened straight through without pausing.
 * Also played videos at other times like during lunch break, before going to sleep or after getting up in the morning.
 * Would play same video at least twice on same day.  Repetition helpful since might not be pausing video to take notes or might be missing out on visuals.
-
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
