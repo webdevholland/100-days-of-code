@@ -16,16 +16,15 @@
 * Am part of "Women that code" group within Career Karma app.  Group started to discuss goal-setting & ways to reward ourselves for reaching goals.
 * Thrilled to learn about Nucamp coding bootcamp from another Career Karma member!
 * Looking forward to taking Web Development Fundamentals course with Nucamp, hopefully around late winter/early spring 2020.
-* Recent transition to data analyst role now has me wanting to look more into data visualization.  Still interested in building front-end web development skills as well.
+* Recent transition to data analyst role now has me wanting to look more into data visualization.  Still interested in front-end web development as well.
 * Nearby university offered workshop this week on data viz w/ Tableau, but got waitlisted.  So, ended up taking different course at same university on basic design to create better visuals.
 * Registered for a Data Navigation course at my organization... scheduled for July 2020 (earlier dates were already filled up!)
 
 **Thoughts & Tactics:**
-* Need to go back to earlier section of JS course & build simple to-do app.
+* Need to go back to earlier section of JS course & actually build out simple to-do app.
 * Need to figure out how to motivate myself to make better use of time on nights & weekends.
-* Has helped in past to have some sort of soothing music with nice scenery on TV while I'm trying to learn at home.
-* set aside savings in case i decide to take longer nucamp course "front-end web + mobile development".
-
+* Has helped in past to have soft background music playing with nice scenery on TV while I'm trying to learn at home.
+* Have been setting aside savings for more thorough Nucamp course on Front-end Web + Mobile Development.  If not taking this Nucamp course, need to figure out how to best use savings to help further knowledge in data viz & front-end web dev.
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
