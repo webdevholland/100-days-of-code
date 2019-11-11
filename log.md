@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Days 16 - 71: September 16 - November 10, 2019
+### Days 16 - 72: September 16 - November 11, 2019 (worked overnight into AM)
 
 ****Background**:  I'm not the best example to follow when it comes to taking the #100DaysOfCode challenge - you can read more about that in my [README.md](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#ive-joined-the-100daysofcode-challenge---sept-1-2019).*
 
@@ -13,22 +13,22 @@
 * Created CodePen on anonymous & arrow functions as practice to go along w/ JS course vid on those topics.
 * Spent more time *listening* to JS course vids.  Very little time spent doing hands-on coding practice.  Haven't reviewed course's example CodePens yet in section on "Starting Our Complex App (App #2)".
 * Grasshopper coding app great for on-the-go practice in JS, but ended up removing app from phone for now (wasn't used often).
-* Part of "Women that code" group in Career Karma app.  Group started to discuss goal-setting & rewarding for accomplished goals.
+* Part of "Women that code" group in Career Karma app.  Group started to discuss individual goal-setting & determing rewards for accomplished goals.
 * Thrilled to learn about Nucamp coding bootcamp from another Career Karma member!
 * Looking forward to taking 4-week course on Web Development Fundamentals with Nucamp, hopefully around late winter/early spring 2020.
 * Recent transition to data analyst role now has me wanting to look more into data visualization.  Still interested in front-end web development as well.
-* Nearby university offered workshop this week on data viz w/ Tableau, but got waitlisted.  So, ended up taking different course at same university on basic design to create better visuals.
-* Registered for a Data Navigation course at my organization... scheduled for July 2020 (earlier dates were already filled up!)
+* Local university offered workshop on data viz w/ Tableau, but got waitlisted.  So, ended up taking different course at same university on basic design to create better visuals.
+* Registered for Data Navigation course at my organization... scheduled in July 2020 (earlier dates already filled up!)
 
 **Thoughts & Tactics:**
-* Have successfully made a habit of listening to JS course videos & tracking my progress by taking notes in journal.
-  - Need to shift gears, go back to earlier section of JS course & actually build out simple to-do app.
-  - Need to forget perfection & just tweet my progress with #100DaysOfCode; worry about adding any links & photos later.
-* Need to figure out how to motivate myself more & make better use of my time on nights & weekends.
+* Have successfully developed habits of listening to JS course videos & tracking progress by taking notes in journal.
+  - Need to shift gears:  have to go back to earlier section of JS course & actually build out simple to-do app.
+  - Need to forget perfection & just tweet progress with #100DaysOfCode; worry about adding any links & photos later.
+* Need to figure out how to get more motivated & make better use of time on nights & weekends.
   - Need to stop mindlessly surfing channels on TV, but...
-  - Has helped me in past to have soft background music playing with nice scenery on TV while trying to learn at home.
-  - Need to learn to reward myself more (picked that up from Career Karma group "Women that code").
-* Have been setting aside savings for 17-week course on Front-end Web + Mobile Development with Nucamp.  If I don't end up taking this Nucamp course, need to figure out how to best use savings to help further knowledge in data viz & front-end web dev.
+  - Has helped in past to have soft background music playing with nice scenery on TV while trying to learn at home.
+  - Need to learn to use rewards as a way to motivate (as discussed in Career Karma group "Women that code").
+* Have been setting aside savings for 17-week course on Front-end Web + Mobile Development with Nucamp.  If not taking this Nucamp course, need to figure out how to best use savings to help further knowledge in data viz & front-end web dev.
 
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
