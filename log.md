@@ -21,9 +21,9 @@
 * Registered for a Data Navigation course at my organization... scheduled for July 2020 (earlier dates were already filled up!)
 
 **Thoughts & Tactics:**
-* Have successfully made a habit of listening to JS course videos & jotting down notes in journal.
+* Have successfully made a habit of listening to JS course videos & tracking my progress by taking notes in journal.
   - Need to shift gears, go back to earlier section of JS course & actually build out simple to-do app.
-  - Need to forget perfection & just tweet progress; worry about adding any links & photos later.
+  - Need to forget perfection & just tweet my progress with #100DaysOfCode; worry about adding any links & photos later.
 * Need to figure out how to motivate myself more & make better use of my time on nights & weekends.
   - Need to stop mindlessly surfing channels on TV, but...
   - Has helped me in past to have soft background music playing with nice scenery on TV while trying to learn at home.
