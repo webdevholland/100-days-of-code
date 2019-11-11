@@ -13,7 +13,7 @@
 * Created CodePen on anonymous & arrow functions as practice to go along w/ JS course vid on those topics.
 * Spent more time *listening* to JS course vids.  Very little time spent doing hands-on coding practice.  Haven't reviewed course's example CodePens yet in section on "Starting Our Complex App (App #2)".
 * Grasshopper coding app great for on-the-go practice in JS, but ended up removing app from phone for now (wasn't used often).
-* Am part of "Women that code" group within Career Karma app.  Group started to discuss goal-setting & ways to reward ourselves for reaching goals.
+* Part of "Women that code" group in Career Karma app.  Group started to discuss goal-setting & rewarding for accomplished goals.
 * Thrilled to learn about Nucamp coding bootcamp from another Career Karma member!
 * Looking forward to taking 4-week course on Web Development Fundamentals with Nucamp, hopefully around late winter/early spring 2020.
 * Recent transition to data analyst role now has me wanting to look more into data visualization.  Still interested in front-end web development as well.
