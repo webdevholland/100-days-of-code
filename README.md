@@ -1,7 +1,7 @@
 # I've joined the #100DaysOfCode Challenge - Sept 1, 2019
 
 *Updated Nov 10, 2019:<br>*
-After I completed the [#21DayCkChallenge](https://career-karma.gitbook.io/learn/21dayckchallenge/21dayckchallenge) with [Career Karma](https://careerkarma.com/?p=1) at the end of Aug 2019, I decided to move on to the #100DaysOfCode challenge as the next adventure on my coding journey.  My main focus for the challenge will be Brad Schiff's course, ["Learn JavaScript: Full-Stack from Scratch"](https://www.udemy.com/share/101qIy/) on Udemy.  In my [log.md](log.md), I'll post about my progress in the course as well as any other topic that has me thinking about coding :-)
+After I completed the [#21DayCkChallenge](https://careerkarma.com/21-day-ck-challenge) with [Career Karma](https://careerkarma.com/?p=1) at the end of Aug 2019, I decided to move on to the #100DaysOfCode challenge as the next adventure on my coding journey.  My main focus for the challenge will be Brad Schiff's course, ["Learn JavaScript: Full-Stack from Scratch"](https://www.udemy.com/share/101qIy/) on Udemy.  In my [log.md](log.md), I'll post about my progress in the course as well as any other topic that has me thinking about coding :-)
 
 ***I'm currently having a hard time following the [rules](https://github.com/webdevholland/100-days-of-code/blob/master/rules.md#rules-of-the-100-days-of-code-challenge) of this challenge.  I haven't been able to build projects yet, so I've been creating simple CodePens to try to demonstrate JavaScript concepts I'm learning.  And I've been jotting down notes in a little journal until I get a chance to update my [log.md](log.md) or Tweet my progress [@webdevholland](https://twitter.com/webdevholland).***
 
