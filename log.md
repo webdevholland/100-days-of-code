@@ -33,7 +33,7 @@
 **Links:**
 * Udemy course:  [Learn JavaScript: Full-Stack from Scratch](http://bit.ly/SchiffJSUdemy)
 * CodePen #12:  [Anonymous & Arrow Functions](https://codepen.io/webdevholland/pen/GRKaEKw) - To see in action, follow instructions commented out with forward slashes '//' in JS editor of Pen.
-* Coding apps:  [Grasshopper](https://grasshopper.codes/) & [CareerKarma](https://careerkarma.com/?p=8)
+* Coding apps:  [Grasshopper](https://grasshopper.codes/) & [CareerKarma](https://careerkarma.com/?p=1)
 * Coding bootcamp:  [Nucamp](https://www.nucamp.co/home)
 
 
