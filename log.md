@@ -2,7 +2,7 @@
 
 ### Days 16 - 71: September 16 - November 10, 2019
 
-****Background**:  I'm not the best example to follow when it comes to taking the #100DaysOfCode challenge - you can read more about that in my [README.md](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#ive-joined-the-100daysofcode-challenge---sep-1-2019).*
+****Background**:  I'm not the best example to follow when it comes to taking the #100DaysOfCode challenge - you can read more about that in my [README.md](https://github.com/webdevholland/100-days-of-code/blob/master/README.md#ive-joined-the-100daysofcode-challenge---sept-1-2019).*
 
 **Overall Update**:  Mainly *listened* to videos from Brad Schiff's JavaScript course in the Udemy app while driving to & from work.  Supplemented JS learning by using Grasshopper coding app a few times.  Another coding app, Career Karma, has proven to be great resource.  Planning on enrolling in Nucamp coding bootcamp in 2020.  Transitioned from being financial analyst to data analyst in late October.  See Links for this log entry.
 
